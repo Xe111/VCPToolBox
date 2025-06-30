@@ -4,6 +4,7 @@ services:
     container_name: vcptoolbox
     ports:
       - "6005:6005"
+      - "8088:8088"
     environment:
       TZ: Asia/Shanghai        # 环境变量
     volumes:
@@ -29,6 +30,10 @@ services:
       # 保持 node_modules 独立于容器，避免本地开发环境的 node_modules 覆盖容器内的。添加pydeps兼容科学计算器依赖。
       - /usr/src/app/pydeps
       - /usr/src/app/node_modules
-      
+    networks:
+      - llmapi  # 使用外部网络
     command: node server.js
     restart: unless-stopped
+networks:
+  llmapi:
+    external: true  # 使用外部网络
