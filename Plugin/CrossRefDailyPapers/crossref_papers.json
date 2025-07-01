@@ -860,6 +860,16 @@
     "journal": "Epilepsy &amp; Behavior"
   },
   {
+    "doi": "10.1016/j.arth.2025.03.002",
+    "title": "Custom Periarticular Injection Cocktail Preparations Are Associated With a Major Financial Burden in Total Joint Arthroplasty",
+    "authors": "Walter L. Taylor; Jawad N. Saleh; Victoria E. Bergstein; Aaron I. Weinblatt; William J. Long",
+    "issuedDate": "2025-7",
+    "abstract": "N/A",
+    "publisher": "Elsevier BV",
+    "type": "journal-article",
+    "journal": "The Journal of Arthroplasty"
+  },
+  {
     "doi": "10.1016/j.ecoenv.2025.118367",
     "title": "Transcriptomics and metabolomics reveal the mechanism of cognitive impairment induced by long-term selenium deficiency in mice",
     "authors": "Wanpeng Cheng; Yani Wang; Peiyue Sa; Luyun Liang; Lantian Zhang; Guangyan Shen; Jincheng Luo; Mengdi Li",
@@ -870,24 +880,54 @@
     "journal": "Ecotoxicology and Environmental Safety"
   },
   {
-    "doi": "10.1109/tpami.2025.3550457",
-    "title": "LMP-GAN: Out-of-Distribution Detection for Non-Control Data Malware Attacks",
-    "authors": "David Wood; David Kapp; Temesguen Messay-Kebede; Keigo Hirakawa",
-    "issuedDate": "2025-7",
-    "abstract": "N/A",
-    "publisher": "Institute of Electrical and Electronics Engineers (IEEE)",
-    "type": "journal-article",
-    "journal": "IEEE Transactions on Pattern Analysis and Machine Intelligence"
-  },
-  {
-    "doi": "10.1016/j.arth.2025.03.002",
-    "title": "Custom Periarticular Injection Cocktail Preparations Are Associated With a Major Financial Burden in Total Joint Arthroplasty",
-    "authors": "Walter L. Taylor; Jawad N. Saleh; Victoria E. Bergstein; Aaron I. Weinblatt; William J. Long",
+    "doi": "10.1016/j.imavis.2025.105570",
+    "title": "SAGNet: Synergistic Attention-Graph Network For video salient object detection",
+    "authors": "Huo Lina; Xueyuan Gao; Wei Wang; Ke Chen; Ke Wang",
     "issuedDate": "2025-7",
     "abstract": "N/A",
     "publisher": "Elsevier BV",
     "type": "journal-article",
-    "journal": "The Journal of Arthroplasty"
+    "journal": "Image and Vision Computing"
+  },
+  {
+    "doi": "10.1016/j.apgeog.2025.103663",
+    "title": "Long time-series change characteristics and suitable scale of oasis in arid and semi-arid regions of China",
+    "authors": "Lei Zhang; Xia Jia; Yonghua Zhao; Manya Luo; Qi Mu; Hongliang Kang; Peng Zhang",
+    "issuedDate": "2025-7",
+    "abstract": "N/A",
+    "publisher": "Elsevier BV",
+    "type": "journal-article",
+    "journal": "Applied Geography"
+  },
+  {
+    "doi": "10.1016/j.sna.2025.116474",
+    "title": "An integrated microfluidic device driven by an automated system for precise detection of antibiotics in water",
+    "authors": "Navya Sethu; Prerna Premchandra; Shreyash Bhaskar Kolhe; Madhusudan B. Kulkarni; Renu Vyas",
+    "issuedDate": "2025-7",
+    "abstract": "N/A",
+    "publisher": "Elsevier BV",
+    "type": "journal-article",
+    "journal": "Sensors and Actuators A: Physical"
+  },
+  {
+    "doi": "10.1016/j.cej.2025.163711",
+    "title": "Corrigendum to “Porous liquids based on ZIF-67@ZIF-8 through the strategy of interface layer reconstruction for CO2 selective sorption” [Chem. Eng. J. 500 (2024) 156655]",
+    "authors": "Jiadi Li; Yangyang Xin; Zheng Dong; Baolu Cui; Zhiye Du; Jingwen Wang; Libing Qian; Shuangshuang Long; Zicheng Wei; Wendi Fan; Jinwen Fan; Yunpan Ying; Yaping Zheng; Zhiyuan Yang; Dechao Wang",
+    "issuedDate": "2025-7",
+    "abstract": "N/A",
+    "publisher": "Elsevier BV",
+    "type": "journal-article",
+    "journal": "Chemical Engineering Journal"
+  },
+  {
+    "doi": "10.1016/j.cclet.2024.110440",
+    "title": "Modulus self-adaptive hydrogel optical fiber for long-term modulation of neural activity",
+    "authors": "Guoyin Chen; Siming Xu; Zeqi Zhang; Ying Guo; Jiahao Zheng; Jialei Yang; Jie Pan; Kai Hou; Meifang Zhu",
+    "issuedDate": "2025-7",
+    "abstract": "N/A",
+    "publisher": "Elsevier BV",
+    "type": "journal-article",
+    "journal": "Chinese Chemical Letters"
   },
   {
     "doi": "10.1016/j.micpath.2025.107612",
@@ -930,54 +970,14 @@
     "journal": "Microbial Pathogenesis"
   },
   {
-    "doi": "10.1016/j.imavis.2025.105570",
-    "title": "SAGNet: Synergistic Attention-Graph Network For video salient object detection",
-    "authors": "Huo Lina; Xueyuan Gao; Wei Wang; Ke Chen; Ke Wang",
+    "doi": "10.1109/tpami.2025.3550457",
+    "title": "LMP-GAN: Out-of-Distribution Detection for Non-Control Data Malware Attacks",
+    "authors": "David Wood; David Kapp; Temesguen Messay-Kebede; Keigo Hirakawa",
     "issuedDate": "2025-7",
     "abstract": "N/A",
-    "publisher": "Elsevier BV",
+    "publisher": "Institute of Electrical and Electronics Engineers (IEEE)",
     "type": "journal-article",
-    "journal": "Image and Vision Computing"
-  },
-  {
-    "doi": "10.1016/j.cclet.2024.110440",
-    "title": "Modulus self-adaptive hydrogel optical fiber for long-term modulation of neural activity",
-    "authors": "Guoyin Chen; Siming Xu; Zeqi Zhang; Ying Guo; Jiahao Zheng; Jialei Yang; Jie Pan; Kai Hou; Meifang Zhu",
-    "issuedDate": "2025-7",
-    "abstract": "N/A",
-    "publisher": "Elsevier BV",
-    "type": "journal-article",
-    "journal": "Chinese Chemical Letters"
-  },
-  {
-    "doi": "10.1016/j.sna.2025.116474",
-    "title": "An integrated microfluidic device driven by an automated system for precise detection of antibiotics in water",
-    "authors": "Navya Sethu; Prerna Premchandra; Shreyash Bhaskar Kolhe; Madhusudan B. Kulkarni; Renu Vyas",
-    "issuedDate": "2025-7",
-    "abstract": "N/A",
-    "publisher": "Elsevier BV",
-    "type": "journal-article",
-    "journal": "Sensors and Actuators A: Physical"
-  },
-  {
-    "doi": "10.1016/j.cej.2025.163711",
-    "title": "Corrigendum to “Porous liquids based on ZIF-67@ZIF-8 through the strategy of interface layer reconstruction for CO2 selective sorption” [Chem. Eng. J. 500 (2024) 156655]",
-    "authors": "Jiadi Li; Yangyang Xin; Zheng Dong; Baolu Cui; Zhiye Du; Jingwen Wang; Libing Qian; Shuangshuang Long; Zicheng Wei; Wendi Fan; Jinwen Fan; Yunpan Ying; Yaping Zheng; Zhiyuan Yang; Dechao Wang",
-    "issuedDate": "2025-7",
-    "abstract": "N/A",
-    "publisher": "Elsevier BV",
-    "type": "journal-article",
-    "journal": "Chemical Engineering Journal"
-  },
-  {
-    "doi": "10.1016/j.apgeog.2025.103663",
-    "title": "Long time-series change characteristics and suitable scale of oasis in arid and semi-arid regions of China",
-    "authors": "Lei Zhang; Xia Jia; Yonghua Zhao; Manya Luo; Qi Mu; Hongliang Kang; Peng Zhang",
-    "issuedDate": "2025-7",
-    "abstract": "N/A",
-    "publisher": "Elsevier BV",
-    "type": "journal-article",
-    "journal": "Applied Geography"
+    "journal": "IEEE Transactions on Pattern Analysis and Machine Intelligence"
   },
   {
     "doi": "10.1016/j.clml.2025.01.017",
@@ -988,16 +988,6 @@
     "publisher": "Elsevier BV",
     "type": "journal-article",
     "journal": "Clinical Lymphoma Myeloma and Leukemia"
-  },
-  {
-    "doi": "10.1016/j.jenvman.2025.125851",
-    "title": "Soil C mineralization and C-Fe coupling: a trade-off between Fenton reaction and microbial activity under straw mulching in banana orchards",
-    "authors": "Lingbo Dong; Weifang Hu; Qi Li; Yuxiu Liu; Xianbiao Lin; Zhaohuan He; Guoliang Li",
-    "issuedDate": "2025-7",
-    "abstract": "N/A",
-    "publisher": "Elsevier BV",
-    "type": "journal-article",
-    "journal": "Journal of Environmental Management"
   },
   {
     "doi": "10.1016/j.jphotochem.2025.116317",
@@ -1030,46 +1020,6 @@
     "journal": "Science of Computer Programming"
   },
   {
-    "doi": "10.1016/j.foodchem.2025.144043",
-    "title": "An enzyme-free multi-stage hybridization chain reaction for the electrochemiluminescence detection of MRSA using MoS2 NF@AuNPs catalyst",
-    "authors": "Yudie Sun; Kehong Quan; Ruilai Zhang; Aobo Feng; Mingfu Ye; Kui Zhang",
-    "issuedDate": "2025-7",
-    "abstract": "N/A",
-    "publisher": "Elsevier BV",
-    "type": "journal-article",
-    "journal": "Food Chemistry"
-  },
-  {
-    "doi": "10.1016/j.gie.2025.01.028",
-    "title": "Current-generation sequencing: Has the next generation of malignant biliary stricture identification arrived?",
-    "authors": "Omeed Alipour",
-    "issuedDate": "2025-7",
-    "abstract": "N/A",
-    "publisher": "Elsevier BV",
-    "type": "journal-article",
-    "journal": "Gastrointestinal Endoscopy"
-  },
-  {
-    "doi": "10.1016/j.microc.2025.114061",
-    "title": "Advances in microfluidic technologies for antibody separation and detection: toward enhanced diagnostics and therapeutic applications",
-    "authors": "Sina (Mohammadmahdi) Keshavarz; Mohammad Jalal Inanlu; Kobra Omidfar; Vahid Bazargan",
-    "issuedDate": "2025-7",
-    "abstract": "N/A",
-    "publisher": "Elsevier BV",
-    "type": "journal-article",
-    "journal": "Microchemical Journal"
-  },
-  {
-    "doi": "10.1016/j.microc.2025.114107",
-    "title": "Magnetic hydrophobic deep eutectic solvent-based microextraction for rapid and simultaneous detection of sulfonamide and estrogen residues in milk using high-performance liquid chromatography-diode array detection",
-    "authors": "Nor Munira Hashim; Mohd Yusmaidie Aziz; Noorfatimah Yahaya; Kartika A. Madurani; Hikmat; Waleed Alahmad; Nur Nadhirah Mohamad Zain",
-    "issuedDate": "2025-7",
-    "abstract": "N/A",
-    "publisher": "Elsevier BV",
-    "type": "journal-article",
-    "journal": "Microchemical Journal"
-  },
-  {
     "doi": "10.1016/j.jasc.2025.04.001",
     "title": "Comparison of fluorescence in situ hybridization and cytology for the accurate detection of malignant biliary strictures, with emphasis on unusual results",
     "authors": "Beena U. Ahsan; Michelle Jin; Brian K. Theisen; Sumit Singla; Dhananjay Chitale; Brandon Shaw; Nazila Azordegan; Zhengfan Xu; Daniel Schultz; Ziying Zhang",
@@ -1100,6 +1050,26 @@
     "journal": "Microchemical Journal"
   },
   {
+    "doi": "10.1016/j.microc.2025.114061",
+    "title": "Advances in microfluidic technologies for antibody separation and detection: toward enhanced diagnostics and therapeutic applications",
+    "authors": "Sina (Mohammadmahdi) Keshavarz; Mohammad Jalal Inanlu; Kobra Omidfar; Vahid Bazargan",
+    "issuedDate": "2025-7",
+    "abstract": "N/A",
+    "publisher": "Elsevier BV",
+    "type": "journal-article",
+    "journal": "Microchemical Journal"
+  },
+  {
+    "doi": "10.1016/j.microc.2025.114107",
+    "title": "Magnetic hydrophobic deep eutectic solvent-based microextraction for rapid and simultaneous detection of sulfonamide and estrogen residues in milk using high-performance liquid chromatography-diode array detection",
+    "authors": "Nor Munira Hashim; Mohd Yusmaidie Aziz; Noorfatimah Yahaya; Kartika A. Madurani; Hikmat; Waleed Alahmad; Nur Nadhirah Mohamad Zain",
+    "issuedDate": "2025-7",
+    "abstract": "N/A",
+    "publisher": "Elsevier BV",
+    "type": "journal-article",
+    "journal": "Microchemical Journal"
+  },
+  {
     "doi": "10.1016/j.psj.2025.105191",
     "title": "From lab to field: Innovative RPA‒CRISPR/Cas12a platform for early short-beak and dwarfism syndrome virus nucleic acids detection",
     "authors": "Xiuqin Chen; Shizhong Zhang; Su Lin; Meiqing Huang; Shilong Chen; Shao Wang",
@@ -1120,24 +1090,34 @@
     "journal": "Results in Chemistry"
   },
   {
-    "doi": "10.1016/j.dsp.2025.105158",
-    "title": "MIR-YOLO: Remote sensing small target detection network based on visible-infrared dual modality",
-    "authors": "Jinli Zhong; Jianxun Zhang",
+    "doi": "10.1016/j.jenvman.2025.125851",
+    "title": "Soil C mineralization and C-Fe coupling: a trade-off between Fenton reaction and microbial activity under straw mulching in banana orchards",
+    "authors": "Lingbo Dong; Weifang Hu; Qi Li; Yuxiu Liu; Xianbiao Lin; Zhaohuan He; Guoliang Li",
     "issuedDate": "2025-7",
     "abstract": "N/A",
     "publisher": "Elsevier BV",
     "type": "journal-article",
-    "journal": "Digital Signal Processing"
+    "journal": "Journal of Environmental Management"
   },
   {
-    "doi": "10.1016/j.cej.2025.163881",
-    "title": "Novel miniaturised microbial electrosynthesis reactor: A study on replicability",
-    "authors": "Marika A.J. Zegers; Eva Augustijn; Geurt Jongbloed; Ludovic Jourdin",
+    "doi": "10.1016/j.gie.2025.01.028",
+    "title": "Current-generation sequencing: Has the next generation of malignant biliary stricture identification arrived?",
+    "authors": "Omeed Alipour",
     "issuedDate": "2025-7",
     "abstract": "N/A",
     "publisher": "Elsevier BV",
     "type": "journal-article",
-    "journal": "Chemical Engineering Journal"
+    "journal": "Gastrointestinal Endoscopy"
+  },
+  {
+    "doi": "10.1016/j.foodchem.2025.144043",
+    "title": "An enzyme-free multi-stage hybridization chain reaction for the electrochemiluminescence detection of MRSA using MoS2 NF@AuNPs catalyst",
+    "authors": "Yudie Sun; Kehong Quan; Ruilai Zhang; Aobo Feng; Mingfu Ye; Kui Zhang",
+    "issuedDate": "2025-7",
+    "abstract": "N/A",
+    "publisher": "Elsevier BV",
+    "type": "journal-article",
+    "journal": "Food Chemistry"
   },
   {
     "doi": "10.1016/j.compositesb.2025.112475",
@@ -1150,6 +1130,16 @@
     "journal": "Composites Part B: Engineering"
   },
   {
+    "doi": "10.1016/j.cej.2025.163881",
+    "title": "Novel miniaturised microbial electrosynthesis reactor: A study on replicability",
+    "authors": "Marika A.J. Zegers; Eva Augustijn; Geurt Jongbloed; Ludovic Jourdin",
+    "issuedDate": "2025-7",
+    "abstract": "N/A",
+    "publisher": "Elsevier BV",
+    "type": "journal-article",
+    "journal": "Chemical Engineering Journal"
+  },
+  {
     "doi": "10.1016/j.cej.2025.164282",
     "title": "AuNPs/C-CNF/PVA hydrogel SERS sensor for comprehensive detection of antitumor drug separation and enrichment",
     "authors": "Bohan Zhang; Jinglei Yang; Qiaojun Jiang; Ruping Zheng; Liting Qiu; Jingxin Chen; Ruiyun You; Zixing Yan; Yudong Lu",
@@ -1158,16 +1148,6 @@
     "publisher": "Elsevier BV",
     "type": "journal-article",
     "journal": "Chemical Engineering Journal"
-  },
-  {
-    "doi": "10.1016/j.jad.2025.04.049",
-    "title": "The role of PTSD-depression comorbidity in long-term mental health sequalae of the October 7th terror attack in Israel: A nationwide prospective study",
-    "authors": "Yossi Levi-Belz; Doron Amsalem; Yoav Groweiss; Carmel Blank; Yuval Neria",
-    "issuedDate": "2025-7",
-    "abstract": "N/A",
-    "publisher": "Elsevier BV",
-    "type": "journal-article",
-    "journal": "Journal of Affective Disorders"
   },
   {
     "doi": "10.1016/j.ecss.2025.109276",
@@ -1190,16 +1170,6 @@
     "journal": "Journal of Power Sources"
   },
   {
-    "doi": "10.1016/j.apsoil.2025.106110",
-    "title": "Using mid-infrared spectroscopy to estimate soil microbial properties at the continental scale",
-    "authors": "Soni Ghimire; Yakun Zhang; Jingyi Huang; Erica L.-W. Majumder; Alfred E. Hartemink; Emily B. Graham; Odeta Qafoku; Joseph Andrews; Zachary B. Freedman",
-    "issuedDate": "2025-7",
-    "abstract": "N/A",
-    "publisher": "Elsevier BV",
-    "type": "journal-article",
-    "journal": "Applied Soil Ecology"
-  },
-  {
     "doi": "10.1016/j.apsoil.2025.106161",
     "title": "On- and off-year management-induced changes in microbial communities cause microbial necromass carbon variation in subtropical Moso bamboo forests",
     "authors": "Zhiyuan Huang; Qiaoling Li; Fangyuan Bian; Zheke Zhong; Xu Gai; Xiaoping Zhang",
@@ -1210,34 +1180,14 @@
     "journal": "Applied Soil Ecology"
   },
   {
-    "doi": "10.1016/j.isprsjprs.2025.04.030",
-    "title": "BGSNet: A boundary-guided Siamese multitask network for semantic change detection from high-resolution remote sensing images",
-    "authors": "Jiang Long; Sicong Liu; Mengmeng Li; Hang Zhao; Yanmin Jin",
+    "doi": "10.1016/j.apsoil.2025.106110",
+    "title": "Using mid-infrared spectroscopy to estimate soil microbial properties at the continental scale",
+    "authors": "Soni Ghimire; Yakun Zhang; Jingyi Huang; Erica L.-W. Majumder; Alfred E. Hartemink; Emily B. Graham; Odeta Qafoku; Joseph Andrews; Zachary B. Freedman",
     "issuedDate": "2025-7",
     "abstract": "N/A",
     "publisher": "Elsevier BV",
     "type": "journal-article",
-    "journal": "ISPRS Journal of Photogrammetry and Remote Sensing"
-  },
-  {
-    "doi": "10.1016/j.survophthal.2024.08.007",
-    "title": "Detection of choroidal vascular features in diabetic patients without clinically visible diabetic retinopathy by optical coherence tomography angiography: A systemic review and meta-analysis",
-    "authors": "Qing Zhao; Linxin Wei; Youxin Chen",
-    "issuedDate": "2025-7",
-    "abstract": "N/A",
-    "publisher": "Elsevier BV",
-    "type": "journal-article",
-    "journal": "Survey of Ophthalmology"
-  },
-  {
-    "doi": "10.1016/j.jes.2024.06.014",
-    "title": "Long term substantial impacts of historic Chlor-Alkali production as a newly recognized source of polyhalogenated carbazoles in aquatic environments",
-    "authors": "Zichun Huang; Guorui Liu; Roland Weber; Jerzy Falandysz; Yong Liang; Pu Wang; Lili Yang; Minghui Zheng",
-    "issuedDate": "2025-7",
-    "abstract": "N/A",
-    "publisher": "Elsevier BV",
-    "type": "journal-article",
-    "journal": "Journal of Environmental Sciences"
+    "journal": "Applied Soil Ecology"
   },
   {
     "doi": "10.1016/j.nanoen.2025.111008",
@@ -1270,24 +1220,14 @@
     "journal": "Postharvest Biology and Technology"
   },
   {
-    "doi": "10.11591/ijeecs.v39.i1.pp592-602",
-    "title": "Real-time driver drowsiness detection based on integrative approach of deep learning and machine learning model",
-    "authors": "Gowrishankar Shiva Shankara Chari; Jyothi Arcot Prashant",
-    "issuedDate": "2025-7-1",
-    "abstract": "Driver drowsiness is a major factor that contributing to road accidents. Several researches are ongoing to detect driver drowsiness, but they suffer from the complexity and cost of the models. This paper introduces a hybrid artificial intelligence (AI)-driven framework integrating deep learning (DL) and machine learning (ML) models for real-time drowsiness detection. The system utilizes a robust DL model to classify driver states based on facial images and support vector machine (SVM) model is trained to develop a cost-efficient yet robust facial landmark detector to extract key features such as eye aspect ratio (EAR) and mouth aspect ratio (MAR). We also introduce a multi-stage decision fusion mechanism that combines convolutional neural network (CNN) probability scores with EAR/MAR thresholds to enhance detection reliability and reduce false positives. Experimental results demonstrate that the proposed model achieves 98% accuracy and F1-score, significantly outperforming traditional DL approaches. Additionally, the SVM-based landmark predictor shows improved efficiency with lower mean squared error (MSE) without having higher computational requirements.",
-    "publisher": "Institute of Advanced Engineering and Science",
-    "type": "journal-article",
-    "journal": "Indonesian Journal of Electrical Engineering and Computer Science"
-  },
-  {
-    "doi": "10.1016/j.physletb.2025.139580",
-    "title": "Holonomy operator for spin connection in twisted geometry",
-    "authors": "Gaoping Long; Hongguang Liu",
+    "doi": "10.1016/j.isprsjprs.2025.04.030",
+    "title": "BGSNet: A boundary-guided Siamese multitask network for semantic change detection from high-resolution remote sensing images",
+    "authors": "Jiang Long; Sicong Liu; Mengmeng Li; Hang Zhao; Yanmin Jin",
     "issuedDate": "2025-7",
     "abstract": "N/A",
     "publisher": "Elsevier BV",
     "type": "journal-article",
-    "journal": "Physics Letters B"
+    "journal": "ISPRS Journal of Photogrammetry and Remote Sensing"
   },
   {
     "doi": "10.1016/j.eswa.2025.127601",
@@ -1300,16 +1240,6 @@
     "journal": "Expert Systems with Applications"
   },
   {
-    "doi": "10.1016/j.molstruc.2025.141979",
-    "title": "Design of “turn-off” luminescent 3D Ln-MOFs for sensitive detection of Fe3+ and Cr2O72−",
-    "authors": "Hao Zhang; Lan Ma; Fu-Long Ma; Xin-Fang Wang; Lu-Lu Wang; Duo-Zhi Wang",
-    "issuedDate": "2025-7",
-    "abstract": "N/A",
-    "publisher": "Elsevier BV",
-    "type": "journal-article",
-    "journal": "Journal of Molecular Structure"
-  },
-  {
     "doi": "10.1016/j.asej.2025.103414",
     "title": "An AI-based badminton smash detection using residual-shuffle network optimized based on upgraded pufferfish optimizer",
     "authors": "Weimin Peng; Wangtian Zheng",
@@ -1320,14 +1250,64 @@
     "journal": "Ain Shams Engineering Journal"
   },
   {
-    "doi": "10.1016/j.ijbiomac.2025.145079",
-    "title": "Exometabolome of Pantoea targets pathogen associated scytalone dehydratase and XopQ for suppression of foliar blast and bacterial blight in rice",
-    "authors": "Charishma Krishnappa; Mohammed Javed; Alexander Balamurugan; Shanu Kumar; Shanmugam Velmurugan; Aditi Kundu; Purva Kulkarni; Govindasamy Venkadasamy; Jos M. Raaijmakers; Aundy Kumar",
+    "doi": "10.1016/j.survophthal.2024.08.007",
+    "title": "Detection of choroidal vascular features in diabetic patients without clinically visible diabetic retinopathy by optical coherence tomography angiography: A systemic review and meta-analysis",
+    "authors": "Qing Zhao; Linxin Wei; Youxin Chen",
     "issuedDate": "2025-7",
     "abstract": "N/A",
     "publisher": "Elsevier BV",
     "type": "journal-article",
-    "journal": "International Journal of Biological Macromolecules"
+    "journal": "Survey of Ophthalmology"
+  },
+  {
+    "doi": "10.1016/j.jes.2024.06.014",
+    "title": "Long term substantial impacts of historic Chlor-Alkali production as a newly recognized source of polyhalogenated carbazoles in aquatic environments",
+    "authors": "Zichun Huang; Guorui Liu; Roland Weber; Jerzy Falandysz; Yong Liang; Pu Wang; Lili Yang; Minghui Zheng",
+    "issuedDate": "2025-7",
+    "abstract": "N/A",
+    "publisher": "Elsevier BV",
+    "type": "journal-article",
+    "journal": "Journal of Environmental Sciences"
+  },
+  {
+    "doi": "10.1016/j.physletb.2025.139580",
+    "title": "Holonomy operator for spin connection in twisted geometry",
+    "authors": "Gaoping Long; Hongguang Liu",
+    "issuedDate": "2025-7",
+    "abstract": "N/A",
+    "publisher": "Elsevier BV",
+    "type": "journal-article",
+    "journal": "Physics Letters B"
+  },
+  {
+    "doi": "10.1016/j.molstruc.2025.141979",
+    "title": "Design of “turn-off” luminescent 3D Ln-MOFs for sensitive detection of Fe3+ and Cr2O72−",
+    "authors": "Hao Zhang; Lan Ma; Fu-Long Ma; Xin-Fang Wang; Lu-Lu Wang; Duo-Zhi Wang",
+    "issuedDate": "2025-7",
+    "abstract": "N/A",
+    "publisher": "Elsevier BV",
+    "type": "journal-article",
+    "journal": "Journal of Molecular Structure"
+  },
+  {
+    "doi": "10.11591/ijeecs.v39.i1.pp592-602",
+    "title": "Real-time driver drowsiness detection based on integrative approach of deep learning and machine learning model",
+    "authors": "Gowrishankar Shiva Shankara Chari; Jyothi Arcot Prashant",
+    "issuedDate": "2025-7-1",
+    "abstract": "Driver drowsiness is a major factor that contributing to road accidents. Several researches are ongoing to detect driver drowsiness, but they suffer from the complexity and cost of the models. This paper introduces a hybrid artificial intelligence (AI)-driven framework integrating deep learning (DL) and machine learning (ML) models for real-time drowsiness detection. The system utilizes a robust DL model to classify driver states based on facial images and support vector machine (SVM) model is trained to develop a cost-efficient yet robust facial landmark detector to extract key features such as eye aspect ratio (EAR) and mouth aspect ratio (MAR). We also introduce a multi-stage decision fusion mechanism that combines convolutional neural network (CNN) probability scores with EAR/MAR thresholds to enhance detection reliability and reduce false positives. Experimental results demonstrate that the proposed model achieves 98% accuracy and F1-score, significantly outperforming traditional DL approaches. Additionally, the SVM-based landmark predictor shows improved efficiency with lower mean squared error (MSE) without having higher computational requirements.",
+    "publisher": "Institute of Advanced Engineering and Science",
+    "type": "journal-article",
+    "journal": "Indonesian Journal of Electrical Engineering and Computer Science"
+  },
+  {
+    "doi": "10.1016/j.cscm.2025.e04727",
+    "title": "Utilization of soil microbial community to enhance mechanical properties of geopolymer paste for sustainable construction materials",
+    "authors": "Edo Danilyan; Januarti Jaya Ekaputri; Enny Zulaika; Puput Risdanareni; Didier Snoeck",
+    "issuedDate": "2025-7",
+    "abstract": "N/A",
+    "publisher": "Elsevier BV",
+    "type": "journal-article",
+    "journal": "Case Studies in Construction Materials"
   },
   {
     "doi": "10.1016/j.ygeno.2025.111062",
@@ -1340,14 +1320,14 @@
     "journal": "Genomics"
   },
   {
-    "doi": "10.1016/j.ocecoaman.2025.107696",
-    "title": "Machine learning-based detection of dynamic changes in mangrove forest, Beilun Estuary",
-    "authors": "Chuqi Long; Zhijun Dai; Xuefei Mei; Xixing Liang; Xuewei Zhang; Yangyang Xi; Riming Wang; Nguyen An Binh; Cong Mai Van; Jinping Cheng",
+    "doi": "10.1016/j.waojou.2025.101074",
+    "title": "Machine learning-based model for acute asthma exacerbation detection using routine blood parameters",
+    "authors": "Youpeng Chen; Junquan Sun; Yabang Chen; Enzhong Li; Jiancai Lu; Huanhua Tang; Yifei Xie; Jiana Zhang; Lesi Peng; Haojie Wu; Zhangkai J. Cheng; Baoqing Sun",
     "issuedDate": "2025-7",
     "abstract": "N/A",
     "publisher": "Elsevier BV",
     "type": "journal-article",
-    "journal": "Ocean &amp; Coastal Management"
+    "journal": "World Allergy Organization Journal"
   },
   {
     "doi": "10.1109/jiot.2025.3550510",
@@ -1370,34 +1350,24 @@
     "journal": "IEEE Transactions on Power Systems"
   },
   {
-    "doi": "10.1016/j.ijom.2025.04.213",
-    "title": "Retrospective Analysis of the Long-term Survival of Dry-inserted Dental Implants in the Maxilla",
-    "authors": "P. Korn; G. Lauer",
+    "doi": "10.1016/j.matdes.2025.114158",
+    "title": "Effect of magnetic field on precipitation kinetics and shear strength of Sn58Bi-Ni solders",
+    "authors": "Chuan-jiang Wu; Liang Zhang; Yu-hao Chen; Xin-quan Yu; Quan-Bin Lu; Wei-min Long",
     "issuedDate": "2025-7",
     "abstract": "N/A",
     "publisher": "Elsevier BV",
     "type": "journal-article",
-    "journal": "International Journal of Oral and Maxillofacial Surgery"
+    "journal": "Materials &amp; Design"
   },
   {
-    "doi": "10.1016/j.seppur.2024.130927",
-    "title": "Designing interfacial chemical bond by anchoring defective CeO2-x nanorods with bismuth-rich Bi4O5Br2 nanosheets: Modulated Z-scheme charge transfer for photocatalytic degradation of antibiotic",
-    "authors": "Jianbang Chen; Zhiyong Yang; Xingwang Long; Lei Liu; Tuan Guo; Daotong You",
-    "issuedDate": "2025-7",
+    "doi": "10.1109/jiot.2025.3546745",
+    "title": "Multifeature Fusion-Based Closed-Box Attack Detection Method for Automatic Modulation Classification",
+    "authors": "Rui Gao; Yang Cong; Xuhao Zhang; Lei Yang",
+    "issuedDate": "2025-7-1",
     "abstract": "N/A",
-    "publisher": "Elsevier BV",
+    "publisher": "Institute of Electrical and Electronics Engineers (IEEE)",
     "type": "journal-article",
-    "journal": "Separation and Purification Technology"
-  },
-  {
-    "doi": "10.1016/j.ajem.2025.03.039",
-    "title": "Emergency medicine updates: Managing the patient with return of spontaneous circulation",
-    "authors": "Brit Long; Michael Gottlieb",
-    "issuedDate": "2025-7",
-    "abstract": "N/A",
-    "publisher": "Elsevier BV",
-    "type": "journal-article",
-    "journal": "The American Journal of Emergency Medicine"
+    "journal": "IEEE Internet of Things Journal"
   },
   {
     "doi": "10.1016/j.bios.2025.117454",
@@ -1410,6 +1380,46 @@
     "journal": "Biosensors and Bioelectronics"
   },
   {
+    "doi": "10.1016/j.seppur.2024.130927",
+    "title": "Designing interfacial chemical bond by anchoring defective CeO2-x nanorods with bismuth-rich Bi4O5Br2 nanosheets: Modulated Z-scheme charge transfer for photocatalytic degradation of antibiotic",
+    "authors": "Jianbang Chen; Zhiyong Yang; Xingwang Long; Lei Liu; Tuan Guo; Daotong You",
+    "issuedDate": "2025-7",
+    "abstract": "N/A",
+    "publisher": "Elsevier BV",
+    "type": "journal-article",
+    "journal": "Separation and Purification Technology"
+  },
+  {
+    "doi": "10.1016/j.ijom.2025.04.213",
+    "title": "Retrospective Analysis of the Long-term Survival of Dry-inserted Dental Implants in the Maxilla",
+    "authors": "P. Korn; G. Lauer",
+    "issuedDate": "2025-7",
+    "abstract": "N/A",
+    "publisher": "Elsevier BV",
+    "type": "journal-article",
+    "journal": "International Journal of Oral and Maxillofacial Surgery"
+  },
+  {
+    "doi": "10.1016/j.biortech.2025.132403",
+    "title": "Rapid enrichment of anaerobic ammonia oxidation bacteria by combining low nitrogen strength with microbial viability",
+    "authors": "Heng Yu; Yue dong; Bing Li; Sike Wang; Junkai Zhao; Jiane Zuo; Yonghui Song; Chengtun Qu",
+    "issuedDate": "2025-7",
+    "abstract": "N/A",
+    "publisher": "Elsevier BV",
+    "type": "journal-article",
+    "journal": "Bioresource Technology"
+  },
+  {
+    "doi": "10.1016/j.ocecoaman.2025.107696",
+    "title": "Machine learning-based detection of dynamic changes in mangrove forest, Beilun Estuary",
+    "authors": "Chuqi Long; Zhijun Dai; Xuefei Mei; Xixing Liang; Xuewei Zhang; Yangyang Xi; Riming Wang; Nguyen An Binh; Cong Mai Van; Jinping Cheng",
+    "issuedDate": "2025-7",
+    "abstract": "N/A",
+    "publisher": "Elsevier BV",
+    "type": "journal-article",
+    "journal": "Ocean &amp; Coastal Management"
+  },
+  {
     "doi": "10.1016/j.jclinane.2025.111902",
     "title": "A prospective, observational study of non-invasive venous waveform analysis (NIVA) for the detection of acute low volume blood loss in humans",
     "authors": "Bret D. Alvis; Dawson Wervey; Romy Pein; Eric Wise; Jenna Sobey; Annmarie Mede; Lexie Vaughn; Marisa Case; Meghan Breed; Jain Priyanka; Philip Leisy; Colleen Brophy; Kyle Hocking",
@@ -1418,6 +1428,46 @@
     "publisher": "Elsevier BV",
     "type": "journal-article",
     "journal": "Journal of Clinical Anesthesia"
+  },
+  {
+    "doi": "10.1016/j.jad.2025.04.049",
+    "title": "The role of PTSD-depression comorbidity in long-term mental health sequalae of the October 7th terror attack in Israel: A nationwide prospective study",
+    "authors": "Yossi Levi-Belz; Doron Amsalem; Yoav Groweiss; Carmel Blank; Yuval Neria",
+    "issuedDate": "2025-7",
+    "abstract": "N/A",
+    "publisher": "Elsevier BV",
+    "type": "journal-article",
+    "journal": "Journal of Affective Disorders"
+  },
+  {
+    "doi": "10.1016/j.dsp.2025.105158",
+    "title": "MIR-YOLO: Remote sensing small target detection network based on visible-infrared dual modality",
+    "authors": "Jinli Zhong; Jianxun Zhang",
+    "issuedDate": "2025-7",
+    "abstract": "N/A",
+    "publisher": "Elsevier BV",
+    "type": "journal-article",
+    "journal": "Digital Signal Processing"
+  },
+  {
+    "doi": "10.1016/j.ijbiomac.2025.145079",
+    "title": "Exometabolome of Pantoea targets pathogen associated scytalone dehydratase and XopQ for suppression of foliar blast and bacterial blight in rice",
+    "authors": "Charishma Krishnappa; Mohammed Javed; Alexander Balamurugan; Shanu Kumar; Shanmugam Velmurugan; Aditi Kundu; Purva Kulkarni; Govindasamy Venkadasamy; Jos M. Raaijmakers; Aundy Kumar",
+    "issuedDate": "2025-7",
+    "abstract": "N/A",
+    "publisher": "Elsevier BV",
+    "type": "journal-article",
+    "journal": "International Journal of Biological Macromolecules"
+  },
+  {
+    "doi": "10.1109/lra.2025.3579620",
+    "title": "Detection of Texting While Walking in Occluded Environment Using Variational Autoencoder for Safe Mobile Robot Navigation",
+    "authors": "Hayato Terao; Jiaxu Wu; Qi An; Atsushi Yamashita",
+    "issuedDate": "2025-7",
+    "abstract": "N/A",
+    "publisher": "Institute of Electrical and Electronics Engineers (IEEE)",
+    "type": "journal-article",
+    "journal": "IEEE Robotics and Automation Letters"
   },
   {
     "doi": "10.1016/j.compbiomed.2025.110340",
@@ -1440,26 +1490,6 @@
     "journal": "Computers in Biology and Medicine"
   },
   {
-    "doi": "10.1123/mc.2025-0021",
-    "title": "Textured Insoles for Improving Balance in Knee Osteoarthritis: Short-Term Effects and Long-Term Sustainability",
-    "authors": "Hyoungjin Park",
-    "issuedDate": "2025-7-1",
-    "abstract": "This study aimed to investigate both immediate and long-term (3 months) effects of textured insoles on balance control in individuals with knee osteoarthritis (OA). Twenty-four participants were divided into two groups: individuals with knee OA (n = 12) and healthy age-matched controls (n = 12). Balance was assessed using the Sensory Organization Test under three conditions: baseline with smooth insoles, immediate effect with textured insoles, and after 3 months of textured insole use. Individuals with knee OA had significantly lower baseline balance performance in complex sensory integration tasks (p &lt; .05). With textured insoles, both groups showed significant improvements particularly in conditions requiring complex sensory integration. The OA group demonstrated marked improvement in Condition 5 (eyes closed with sway-referenced surface) with textured insoles (p = .001, d = −1.043) compared with baseline. These improvements were retained during the 3-month period without meaningful habituation effects. These findings indicate that textured insoles provide an effective intervention to improve balance control in individuals with knee OA, which may have implications for improving postural stability and sensory integration in this population.",
-    "publisher": "Human Kinetics",
-    "type": "journal-article",
-    "journal": "Motor Control"
-  },
-  {
-    "doi": "10.1016/j.cscm.2025.e04727",
-    "title": "Utilization of soil microbial community to enhance mechanical properties of geopolymer paste for sustainable construction materials",
-    "authors": "Edo Danilyan; Januarti Jaya Ekaputri; Enny Zulaika; Puput Risdanareni; Didier Snoeck",
-    "issuedDate": "2025-7",
-    "abstract": "N/A",
-    "publisher": "Elsevier BV",
-    "type": "journal-article",
-    "journal": "Case Studies in Construction Materials"
-  },
-  {
     "doi": "10.5713/ab.24.0683",
     "title": "Effects of 4-hydroxy-2,5-dimethyl-3(2H)-furanone supplementation on growth performance, serum antioxidant capacity, rumen fermentation characteristics, rumen bacterial quorum sensing, and microbial community in Hu sheep",
     "authors": "Chuanpei Fu; Jing Ge; Mingren Qu; Kehui Ouyang; Qinghua Qiu",
@@ -1470,44 +1500,24 @@
     "journal": "Animal Bioscience"
   },
   {
-    "doi": "10.1109/lra.2025.3579620",
-    "title": "Detection of Texting While Walking in Occluded Environment Using Variational Autoencoder for Safe Mobile Robot Navigation",
-    "authors": "Hayato Terao; Jiaxu Wu; Qi An; Atsushi Yamashita",
-    "issuedDate": "2025-7",
-    "abstract": "N/A",
-    "publisher": "Institute of Electrical and Electronics Engineers (IEEE)",
-    "type": "journal-article",
-    "journal": "IEEE Robotics and Automation Letters"
-  },
-  {
-    "doi": "10.1016/j.waojou.2025.101074",
-    "title": "Machine learning-based model for acute asthma exacerbation detection using routine blood parameters",
-    "authors": "Youpeng Chen; Junquan Sun; Yabang Chen; Enzhong Li; Jiancai Lu; Huanhua Tang; Yifei Xie; Jiana Zhang; Lesi Peng; Haojie Wu; Zhangkai J. Cheng; Baoqing Sun",
-    "issuedDate": "2025-7",
-    "abstract": "N/A",
-    "publisher": "Elsevier BV",
-    "type": "journal-article",
-    "journal": "World Allergy Organization Journal"
-  },
-  {
-    "doi": "10.1016/j.matdes.2025.114158",
-    "title": "Effect of magnetic field on precipitation kinetics and shear strength of Sn58Bi-Ni solders",
-    "authors": "Chuan-jiang Wu; Liang Zhang; Yu-hao Chen; Xin-quan Yu; Quan-Bin Lu; Wei-min Long",
-    "issuedDate": "2025-7",
-    "abstract": "N/A",
-    "publisher": "Elsevier BV",
-    "type": "journal-article",
-    "journal": "Materials &amp; Design"
-  },
-  {
-    "doi": "10.1109/jiot.2025.3546745",
-    "title": "Multifeature Fusion-Based Closed-Box Attack Detection Method for Automatic Modulation Classification",
-    "authors": "Rui Gao; Yang Cong; Xuhao Zhang; Lei Yang",
+    "doi": "10.1123/mc.2025-0021",
+    "title": "Textured Insoles for Improving Balance in Knee Osteoarthritis: Short-Term Effects and Long-Term Sustainability",
+    "authors": "Hyoungjin Park",
     "issuedDate": "2025-7-1",
-    "abstract": "N/A",
-    "publisher": "Institute of Electrical and Electronics Engineers (IEEE)",
+    "abstract": "This study aimed to investigate both immediate and long-term (3 months) effects of textured insoles on balance control in individuals with knee osteoarthritis (OA). Twenty-four participants were divided into two groups: individuals with knee OA (n = 12) and healthy age-matched controls (n = 12). Balance was assessed using the Sensory Organization Test under three conditions: baseline with smooth insoles, immediate effect with textured insoles, and after 3 months of textured insole use. Individuals with knee OA had significantly lower baseline balance performance in complex sensory integration tasks (p &lt; .05). With textured insoles, both groups showed significant improvements particularly in conditions requiring complex sensory integration. The OA group demonstrated marked improvement in Condition 5 (eyes closed with sway-referenced surface) with textured insoles (p = .001, d = −1.043) compared with baseline. These improvements were retained during the 3-month period without meaningful habituation effects. These findings indicate that textured insoles provide an effective intervention to improve balance control in individuals with knee OA, which may have implications for improving postural stability and sensory integration in this population.",
+    "publisher": "Human Kinetics",
     "type": "journal-article",
-    "journal": "IEEE Internet of Things Journal"
+    "journal": "Motor Control"
+  },
+  {
+    "doi": "10.1016/j.ajem.2025.03.039",
+    "title": "Emergency medicine updates: Managing the patient with return of spontaneous circulation",
+    "authors": "Brit Long; Michael Gottlieb",
+    "issuedDate": "2025-7",
+    "abstract": "N/A",
+    "publisher": "Elsevier BV",
+    "type": "journal-article",
+    "journal": "The American Journal of Emergency Medicine"
   },
   {
     "doi": "10.1016/j.isci.2025.112872",
@@ -1530,16 +1540,6 @@
     "journal": "Digestive and Liver Disease"
   },
   {
-    "doi": "10.1016/j.dwt.2025.101277",
-    "title": "Enhanced anaerobic treatment of Polybutadiene adipate terephthalate wastewater in up-flow anaerobic sludge blanket by pre-acidification: Pollutants degradation and microbial succession",
-    "authors": "Yan Wang; Luyao Xu; Hong Mei; Liang Xuan; Bao Zhang; Juan Geng; Mengqi Zheng; Fang Dong",
-    "issuedDate": "2025-7",
-    "abstract": "N/A",
-    "publisher": "Elsevier BV",
-    "type": "journal-article",
-    "journal": "Desalination and Water Treatment"
-  },
-  {
     "doi": "10.1016/j.fertnstert.2025.05.039",
     "title": "PGT-A INCORPORATING SENSITIVE AND SPECIFIC DETECTION OF NINE RECURRENT DELETION AND DUPLICATION SYNDROMES USING HIGH RESOLUTION TARGETED SEQUENCING",
     "authors": "Christopher Weier; Alexander Griffith; Kedrick McKissock; Caitlin Berger; Kavitha Mani; Zhilin Liu; Tony Gordon; Kate Brown",
@@ -1550,6 +1550,16 @@
     "journal": "Fertility and Sterility"
   },
   {
+    "doi": "10.1016/j.dwt.2025.101277",
+    "title": "Enhanced anaerobic treatment of Polybutadiene adipate terephthalate wastewater in up-flow anaerobic sludge blanket by pre-acidification: Pollutants degradation and microbial succession",
+    "authors": "Yan Wang; Luyao Xu; Hong Mei; Liang Xuan; Bao Zhang; Juan Geng; Mengqi Zheng; Fang Dong",
+    "issuedDate": "2025-7",
+    "abstract": "N/A",
+    "publisher": "Elsevier BV",
+    "type": "journal-article",
+    "journal": "Desalination and Water Treatment"
+  },
+  {
     "doi": "10.1016/j.meatsci.2025.109820",
     "title": "Analysis of intrinsic effects of compound curing agents on small molecule metabolites and microbial communities in Xuanwei ham based on metabolomics and high-throughput sequencing",
     "authors": "Zhijie Zheng; Wenxi Fu; Guiying Wang; Bo Li; Wen Xun; Nannan Zhou; Chunfang Yang; Ruwei Ren; Shuai Tang; Yanfei Du; Jiayan Tan; Dahai Gu; Guozhou Liao",
@@ -1558,36 +1568,6 @@
     "publisher": "Elsevier BV",
     "type": "journal-article",
     "journal": "Meat Science"
-  },
-  {
-    "doi": "10.1016/j.biortech.2025.132403",
-    "title": "Rapid enrichment of anaerobic ammonia oxidation bacteria by combining low nitrogen strength with microbial viability",
-    "authors": "Heng Yu; Yue dong; Bing Li; Sike Wang; Junkai Zhao; Jiane Zuo; Yonghui Song; Chengtun Qu",
-    "issuedDate": "2025-7",
-    "abstract": "N/A",
-    "publisher": "Elsevier BV",
-    "type": "journal-article",
-    "journal": "Bioresource Technology"
-  },
-  {
-    "doi": "10.1186/s12864-025-11756-x",
-    "title": "Genomic and functional insights into commensal streptococci with anti-pneumococcal activity",
-    "authors": "Sara Handem; Bárbara Ferreira; Carina Valente; Raquel Sá-Leão",
-    "issuedDate": "2025-7-1",
-    "abstract": "N/A",
-    "publisher": "Springer Science and Business Media LLC",
-    "type": "journal-article",
-    "journal": "BMC Genomics"
-  },
-  {
-    "doi": "10.1186/s12864-025-11767-8",
-    "title": "Novel insights into the Leishmania infantum transcriptome diversity of protein-coding and non-coding sequences in both stages of parasite development using nanopore direct RNA sequencing",
-    "authors": "Jean-Guillaume Emond-Rheault; Gabriel Reis Ferreira; Camille Lavoie-Ouellet; Martin A. Smith; Barbara Papadopoulou",
-    "issuedDate": "2025-7-1",
-    "abstract": "N/A",
-    "publisher": "Springer Science and Business Media LLC",
-    "type": "journal-article",
-    "journal": "BMC Genomics"
   },
   {
     "doi": "10.1016/j.geoderma.2025.117357",
@@ -1610,6 +1590,26 @@
     "journal": "Environment International"
   },
   {
+    "doi": "10.1186/s12864-025-11756-x",
+    "title": "Genomic and functional insights into commensal streptococci with anti-pneumococcal activity",
+    "authors": "Sara Handem; Bárbara Ferreira; Carina Valente; Raquel Sá-Leão",
+    "issuedDate": "2025-7-1",
+    "abstract": "N/A",
+    "publisher": "Springer Science and Business Media LLC",
+    "type": "journal-article",
+    "journal": "BMC Genomics"
+  },
+  {
+    "doi": "10.1186/s12864-025-11767-8",
+    "title": "Novel insights into the Leishmania infantum transcriptome diversity of protein-coding and non-coding sequences in both stages of parasite development using nanopore direct RNA sequencing",
+    "authors": "Jean-Guillaume Emond-Rheault; Gabriel Reis Ferreira; Camille Lavoie-Ouellet; Martin A. Smith; Barbara Papadopoulou",
+    "issuedDate": "2025-7-1",
+    "abstract": "N/A",
+    "publisher": "Springer Science and Business Media LLC",
+    "type": "journal-article",
+    "journal": "BMC Genomics"
+  },
+  {
     "doi": "10.1186/s12880-025-01743-9",
     "title": "Radiomics and machine learning for osteoporosis detection using abdominal computed tomography: a retrospective multicenter study",
     "authors": "Zhai Liu; Yongjun Li; Chenguang Zhang; Hui Xu; Junlu Zhao; Chencui Huang; Xingzhi Chen; Qingyun Ren",
@@ -1628,206 +1628,6 @@
     "publisher": "Springer Science and Business Media LLC",
     "type": "journal-article",
     "journal": "npj Genomic Medicine"
-  },
-  {
-    "doi": "10.1016/j.eswa.2025.127709",
-    "title": "Automated diabetic retinopathy detection using a multi-step framework with stacked ensemble-based classification model",
-    "authors": "Santoshkumar S Ainapur; Virupakshappa",
-    "issuedDate": "2025-7",
-    "abstract": "N/A",
-    "publisher": "Elsevier BV",
-    "type": "journal-article",
-    "journal": "Expert Systems with Applications"
-  },
-  {
-    "doi": "10.1016/j.colsurfb.2025.114608",
-    "title": "Dual-mode sensors based on double enzyme-mimicking MnCu nanoflowers as fluorescence probe for the detection of organophosphorus pesticides and 2,4-dichlorophenol",
-    "authors": "Ziyu Yan; Ziwen Liao; Zhengyue Xiao; Yining Zhang; Huajie Peng; Jiali Zhong; Zhuo Li; Peng Xu; Ping Qiu",
-    "issuedDate": "2025-7",
-    "abstract": "N/A",
-    "publisher": "Elsevier BV",
-    "type": "journal-article",
-    "journal": "Colloids and Surfaces B: Biointerfaces"
-  },
-  {
-    "doi": "10.1016/j.xhgg.2025.100439",
-    "title": "Advancing genetic services in African healthcare: Challenges, opportunities, and strategic insights from a scoping review",
-    "authors": "Karen Kengne Kamga; Pallissa Fonkam Marlyse; Seraphin Nguefack; Ambroise Wonkam",
-    "issuedDate": "2025-7",
-    "abstract": "N/A",
-    "publisher": "Elsevier BV",
-    "type": "journal-article",
-    "journal": "Human Genetics and Genomics Advances"
-  },
-  {
-    "doi": "10.1016/j.bbe.2025.05.003",
-    "title": "Assessment of the intermuscular coherence for the early detection of diabetic peripheral neuropathy: a cross-sectional study",
-    "authors": "I. Junquera-Godoy; J.L. Martinez-De-Juan; G. González Lorente; J.M. Carot-Sierra; J. Gomis-Tena; J. Saiz; G.C. Mas Penalva; E. Soler Climent; G. Prats-Boluda",
-    "issuedDate": "2025-7",
-    "abstract": "N/A",
-    "publisher": "Elsevier BV",
-    "type": "journal-article",
-    "journal": "Biocybernetics and Biomedical Engineering"
-  },
-  {
-    "doi": "10.1016/j.conbuildmat.2025.141907",
-    "title": "YOLOv11-CAFM model in ground penetrating radar image for pavement distress detection and optimization study",
-    "authors": "Yuanbo Li; Wenwu Zhang; Songtao Lv; Jing Yu; Dongdong Ge; Jiawei Guo; Lin Li",
-    "issuedDate": "2025-7",
-    "abstract": "N/A",
-    "publisher": "Elsevier BV",
-    "type": "journal-article",
-    "journal": "Construction and Building Materials"
-  },
-  {
-    "doi": "10.1016/j.micpath.2025.107529",
-    "title": "Succinate contributes to Staphylococcus aureus skin infection by reactive oxygen species-hypoxic inducible factor 1α-glycolysis axis",
-    "authors": "Xing Gao; Min Yu; Tianfeng Huang; Yali Ge; Ju Gao",
-    "issuedDate": "2025-7",
-    "abstract": "N/A",
-    "publisher": "Elsevier BV",
-    "type": "journal-article",
-    "journal": "Microbial Pathogenesis"
-  },
-  {
-    "doi": "10.1016/j.micpath.2025.107542",
-    "title": "Polymorphisms in HLA genes among Brazilian patients hospitalized with COVID-19: Insights from a multicentric study",
-    "authors": "Gilcele de Campos Martin Berber; Kevin Matheus Lima de Sarges; Thais Campos Dias da Cruz; Eric Henrique Roma; Fábio Miyajima; Jorge Reis Almeida; Cíntia Fernandes de Souza; Andrea Alice da Silva; Izaura Maria Vieira Cayres Vallinoto; Antônio Carlos Rosário Vallinoto; Maria Alice Freitas Queiroz; Tatiana Gasperin Baccin; Andréa Cauduro de Castro; Angélica Thomaz Vieira; Francisco Kennedy Scoffoni de Azevedo; Alexandre da Costa Pereira; Luiz Fábio Magno Falcão; Juarez Antônio Simões Quaresma; Fernanda Kehdy; Eduardo Tarazona Santos; Marilda Mendonça Siqueira; Cristiana Couto Garcia; Eduardo José Melo dos Santos; Renata Dezengrini Slhessarenko",
-    "issuedDate": "2025-7",
-    "abstract": "N/A",
-    "publisher": "Elsevier BV",
-    "type": "journal-article",
-    "journal": "Microbial Pathogenesis"
-  },
-  {
-    "doi": "10.1016/j.micpath.2025.107573",
-    "title": "Bacteriocin AP7121 as a potential treatment for surgical site infections by Staphylococcus aureus: in vitro/in vivo models",
-    "authors": "Laureano Schofs; Mónica D. Sparo; Sabina Lissarrague; María G. de Yaniz; Mariana Bistoletti; Sergio F. Sánchez Bruni",
-    "issuedDate": "2025-7",
-    "abstract": "N/A",
-    "publisher": "Elsevier BV",
-    "type": "journal-article",
-    "journal": "Microbial Pathogenesis"
-  },
-  {
-    "doi": "10.1016/j.micpath.2025.107514",
-    "title": "Molecular epidemiology and antibiotic resistance profiles of Mycobacterium and Nocardia species in patients with cancer: Detection of multidrug-resistant and extensively drug-resistant strains",
-    "authors": "Razieh Helali Pargali; Majid Baseri Salehi; Nima Bahador",
-    "issuedDate": "2025-7",
-    "abstract": "N/A",
-    "publisher": "Elsevier BV",
-    "type": "journal-article",
-    "journal": "Microbial Pathogenesis"
-  },
-  {
-    "doi": "10.1016/j.micpath.2025.107577",
-    "title": "Intervention of Corynebacterium striatum in the sessile lifestyle of Staphylococcus aureus wild-type and mutants for ica genes in polymicrobial biofilms",
-    "authors": "Giorgio Silva-Santana; Eustáquio Souza Baêta Júnior; Greice Maria Silva Conceição; Fabio Aguiar-Alves; Marcelo Luiz Lima Brandão; Eduardo José Lopes-Torres; Ana Luiza Mattos-Guaraldi",
-    "issuedDate": "2025-7",
-    "abstract": "N/A",
-    "publisher": "Elsevier BV",
-    "type": "journal-article",
-    "journal": "Microbial Pathogenesis"
-  },
-  {
-    "doi": "10.1016/j.fuel.2025.134872",
-    "title": "Influence of zinc ferrite nanocomposites for enhancing biohydrogen production during distillery wastewater treatment in microbial electrolysis cell",
-    "authors": "Jayachitra Murugaiyan; Anantharaman Narayanan; Samsudeen Naina Mohamed",
-    "issuedDate": "2025-7",
-    "abstract": "N/A",
-    "publisher": "Elsevier BV",
-    "type": "journal-article",
-    "journal": "Fuel"
-  },
-  {
-    "doi": "10.1016/j.aqrep.2025.102728",
-    "title": "Genome re-sequencing and PCR amplification based simple and rapid sexing method for Procambarus clarkii",
-    "authors": "Yu Li; Honghao Jin; Yuan Gao; Fan Liu; Feng Qin; Dan Yang; Hui Luo; Ronghua Wu; Zhengshi Zhang; Shuqing Zheng; Hua Ye",
-    "issuedDate": "2025-7",
-    "abstract": "N/A",
-    "publisher": "Elsevier BV",
-    "type": "journal-article",
-    "journal": "Aquaculture Reports"
-  },
-  {
-    "doi": "10.1016/j.compeleceng.2025.110401",
-    "title": "LFGNet: Low-level feature-guided network for drivers’ calling behavior detection",
-    "authors": "Hao Li; Changming Song; Dongxu Cheng; Zenghui Li; Caihong Wu; Kang Chen",
-    "issuedDate": "2025-7",
-    "abstract": "N/A",
-    "publisher": "Elsevier BV",
-    "type": "journal-article",
-    "journal": "Computers and Electrical Engineering"
-  },
-  {
-    "doi": "10.1016/j.ecmx.2025.101061",
-    "title": "Optimisation of metastable supercooled liquid phase change material for long-term heat energy accumulation",
-    "authors": "Jiří Ryšavý; Jakub Čespiva; Thangavel Sangeetha; Christian Teicht; Matěj Charvát; Wei-Mon Yan; Ricardo Chacartegui; Tadeáš Ochodek",
-    "issuedDate": "2025-7",
-    "abstract": "N/A",
-    "publisher": "Elsevier BV",
-    "type": "journal-article",
-    "journal": "Energy Conversion and Management: X"
-  },
-  {
-    "doi": "10.1016/j.asoc.2025.113282",
-    "title": "A particle swarm optimization-based ensemble metaheuristic for long-term transmission network expansion planning",
-    "authors": "Libin Hong; Guodong Wang; Ruibin Bai",
-    "issuedDate": "2025-7",
-    "abstract": "N/A",
-    "publisher": "Elsevier BV",
-    "type": "journal-article",
-    "journal": "Applied Soft Computing"
-  },
-  {
-    "doi": "10.1016/j.annonc.2025.05.006",
-    "title": "Reply to Letter to the Editor “Lung cancer detection by electronic nose analysis of exhaled breath: a multi-center prospective external validation study” by Liu et al., G. Rocco, and Szarpak et al.",
-    "authors": "A.I.G. Buma; M.B. Muntinghe-Wagenaar; V. van der Noort; R. de Vries; M.M.F. Schuurbiers; P.J. Sterk; S.P.M. Schipper; J. Meurs; S.M. Cristescu; T.J.N. Hiltermann; M.M. van den Heuvel",
-    "issuedDate": "2025-7",
-    "abstract": "N/A",
-    "publisher": "Elsevier BV",
-    "type": "journal-article",
-    "journal": "Annals of Oncology"
-  },
-  {
-    "doi": "10.1016/j.oceaneng.2025.121579",
-    "title": "A numerical model of ship manoeuvring for the KVLCC2 hull, in regular and long-crested irregular waves",
-    "authors": "Maria Acanfora; Marco Altosole; Silvia Pennino",
-    "issuedDate": "2025-7",
-    "abstract": "N/A",
-    "publisher": "Elsevier BV",
-    "type": "journal-article",
-    "journal": "Ocean Engineering"
-  },
-  {
-    "doi": "10.21608/ejmm.2025.386421.1660",
-    "title": "Human Mammary Tumor Virus Detection and APOBEC3G Expression in Breast Cancer: A Molecular Analysis of Iraqi FFPE Tissues",
-    "authors": "Budoor M. Al-Sharefy; Saife D. Al-Ahmer; Asan A.Q. Al-Niyazee",
-    "issuedDate": "2025-7-1",
-    "abstract": "N/A",
-    "publisher": "Egyptian Knowledge Bank",
-    "type": "journal-article",
-    "journal": "Egyptian Journal of Medical Microbiology"
-  },
-  {
-    "doi": "10.1016/j.microc.2025.114024",
-    "title": "The investigation of voltammetry mechanism of MoS2/rGO nanocomposite-based molecularly imprinted sensors for the selective detection of dopamine",
-    "authors": "Jishan Su; Yizhan Sun; Yingying Ben; Ru Liu; Shuwen Lv; Xia Zhang; Yuandong Xu",
-    "issuedDate": "2025-7",
-    "abstract": "N/A",
-    "publisher": "Elsevier BV",
-    "type": "journal-article",
-    "journal": "Microchemical Journal"
-  },
-  {
-    "doi": "10.1016/j.microc.2025.114008",
-    "title": "A rapid ratiometric fluorescence sensor for the detection of hypochlorite in onion cells and zebrafish",
-    "authors": "Yuehua Yuan; Wenhui Xia; Chaoyi Yue; Mengqing Du; Siyi Shen; Yongjun Zhu; Yuzhen Wang; Feng Feng; Maozhong Tian",
-    "issuedDate": "2025-7",
-    "abstract": "N/A",
-    "publisher": "Elsevier BV",
-    "type": "journal-article",
-    "journal": "Microchemical Journal"
   },
   {
     "doi": "10.1016/j.cellsig.2025.111708",
@@ -1908,6 +1708,196 @@
     "publisher": "Elsevier BV",
     "type": "journal-article",
     "journal": "Bioresource Technology"
+  },
+  {
+    "doi": "10.1016/j.microc.2025.114024",
+    "title": "The investigation of voltammetry mechanism of MoS2/rGO nanocomposite-based molecularly imprinted sensors for the selective detection of dopamine",
+    "authors": "Jishan Su; Yizhan Sun; Yingying Ben; Ru Liu; Shuwen Lv; Xia Zhang; Yuandong Xu",
+    "issuedDate": "2025-7",
+    "abstract": "N/A",
+    "publisher": "Elsevier BV",
+    "type": "journal-article",
+    "journal": "Microchemical Journal"
+  },
+  {
+    "doi": "10.1016/j.microc.2025.114008",
+    "title": "A rapid ratiometric fluorescence sensor for the detection of hypochlorite in onion cells and zebrafish",
+    "authors": "Yuehua Yuan; Wenhui Xia; Chaoyi Yue; Mengqing Du; Siyi Shen; Yongjun Zhu; Yuzhen Wang; Feng Feng; Maozhong Tian",
+    "issuedDate": "2025-7",
+    "abstract": "N/A",
+    "publisher": "Elsevier BV",
+    "type": "journal-article",
+    "journal": "Microchemical Journal"
+  },
+  {
+    "doi": "10.1016/j.bbe.2025.05.003",
+    "title": "Assessment of the intermuscular coherence for the early detection of diabetic peripheral neuropathy: a cross-sectional study",
+    "authors": "I. Junquera-Godoy; J.L. Martinez-De-Juan; G. González Lorente; J.M. Carot-Sierra; J. Gomis-Tena; J. Saiz; G.C. Mas Penalva; E. Soler Climent; G. Prats-Boluda",
+    "issuedDate": "2025-7",
+    "abstract": "N/A",
+    "publisher": "Elsevier BV",
+    "type": "journal-article",
+    "journal": "Biocybernetics and Biomedical Engineering"
+  },
+  {
+    "doi": "10.1016/j.conbuildmat.2025.141907",
+    "title": "YOLOv11-CAFM model in ground penetrating radar image for pavement distress detection and optimization study",
+    "authors": "Yuanbo Li; Wenwu Zhang; Songtao Lv; Jing Yu; Dongdong Ge; Jiawei Guo; Lin Li",
+    "issuedDate": "2025-7",
+    "abstract": "N/A",
+    "publisher": "Elsevier BV",
+    "type": "journal-article",
+    "journal": "Construction and Building Materials"
+  },
+  {
+    "doi": "10.1016/j.colsurfb.2025.114608",
+    "title": "Dual-mode sensors based on double enzyme-mimicking MnCu nanoflowers as fluorescence probe for the detection of organophosphorus pesticides and 2,4-dichlorophenol",
+    "authors": "Ziyu Yan; Ziwen Liao; Zhengyue Xiao; Yining Zhang; Huajie Peng; Jiali Zhong; Zhuo Li; Peng Xu; Ping Qiu",
+    "issuedDate": "2025-7",
+    "abstract": "N/A",
+    "publisher": "Elsevier BV",
+    "type": "journal-article",
+    "journal": "Colloids and Surfaces B: Biointerfaces"
+  },
+  {
+    "doi": "10.1016/j.eswa.2025.127709",
+    "title": "Automated diabetic retinopathy detection using a multi-step framework with stacked ensemble-based classification model",
+    "authors": "Santoshkumar S Ainapur; Virupakshappa",
+    "issuedDate": "2025-7",
+    "abstract": "N/A",
+    "publisher": "Elsevier BV",
+    "type": "journal-article",
+    "journal": "Expert Systems with Applications"
+  },
+  {
+    "doi": "10.1016/j.compeleceng.2025.110401",
+    "title": "LFGNet: Low-level feature-guided network for drivers’ calling behavior detection",
+    "authors": "Hao Li; Changming Song; Dongxu Cheng; Zenghui Li; Caihong Wu; Kang Chen",
+    "issuedDate": "2025-7",
+    "abstract": "N/A",
+    "publisher": "Elsevier BV",
+    "type": "journal-article",
+    "journal": "Computers and Electrical Engineering"
+  },
+  {
+    "doi": "10.1016/j.micpath.2025.107529",
+    "title": "Succinate contributes to Staphylococcus aureus skin infection by reactive oxygen species-hypoxic inducible factor 1α-glycolysis axis",
+    "authors": "Xing Gao; Min Yu; Tianfeng Huang; Yali Ge; Ju Gao",
+    "issuedDate": "2025-7",
+    "abstract": "N/A",
+    "publisher": "Elsevier BV",
+    "type": "journal-article",
+    "journal": "Microbial Pathogenesis"
+  },
+  {
+    "doi": "10.1016/j.micpath.2025.107542",
+    "title": "Polymorphisms in HLA genes among Brazilian patients hospitalized with COVID-19: Insights from a multicentric study",
+    "authors": "Gilcele de Campos Martin Berber; Kevin Matheus Lima de Sarges; Thais Campos Dias da Cruz; Eric Henrique Roma; Fábio Miyajima; Jorge Reis Almeida; Cíntia Fernandes de Souza; Andrea Alice da Silva; Izaura Maria Vieira Cayres Vallinoto; Antônio Carlos Rosário Vallinoto; Maria Alice Freitas Queiroz; Tatiana Gasperin Baccin; Andréa Cauduro de Castro; Angélica Thomaz Vieira; Francisco Kennedy Scoffoni de Azevedo; Alexandre da Costa Pereira; Luiz Fábio Magno Falcão; Juarez Antônio Simões Quaresma; Fernanda Kehdy; Eduardo Tarazona Santos; Marilda Mendonça Siqueira; Cristiana Couto Garcia; Eduardo José Melo dos Santos; Renata Dezengrini Slhessarenko",
+    "issuedDate": "2025-7",
+    "abstract": "N/A",
+    "publisher": "Elsevier BV",
+    "type": "journal-article",
+    "journal": "Microbial Pathogenesis"
+  },
+  {
+    "doi": "10.1016/j.micpath.2025.107573",
+    "title": "Bacteriocin AP7121 as a potential treatment for surgical site infections by Staphylococcus aureus: in vitro/in vivo models",
+    "authors": "Laureano Schofs; Mónica D. Sparo; Sabina Lissarrague; María G. de Yaniz; Mariana Bistoletti; Sergio F. Sánchez Bruni",
+    "issuedDate": "2025-7",
+    "abstract": "N/A",
+    "publisher": "Elsevier BV",
+    "type": "journal-article",
+    "journal": "Microbial Pathogenesis"
+  },
+  {
+    "doi": "10.1016/j.micpath.2025.107514",
+    "title": "Molecular epidemiology and antibiotic resistance profiles of Mycobacterium and Nocardia species in patients with cancer: Detection of multidrug-resistant and extensively drug-resistant strains",
+    "authors": "Razieh Helali Pargali; Majid Baseri Salehi; Nima Bahador",
+    "issuedDate": "2025-7",
+    "abstract": "N/A",
+    "publisher": "Elsevier BV",
+    "type": "journal-article",
+    "journal": "Microbial Pathogenesis"
+  },
+  {
+    "doi": "10.1016/j.micpath.2025.107577",
+    "title": "Intervention of Corynebacterium striatum in the sessile lifestyle of Staphylococcus aureus wild-type and mutants for ica genes in polymicrobial biofilms",
+    "authors": "Giorgio Silva-Santana; Eustáquio Souza Baêta Júnior; Greice Maria Silva Conceição; Fabio Aguiar-Alves; Marcelo Luiz Lima Brandão; Eduardo José Lopes-Torres; Ana Luiza Mattos-Guaraldi",
+    "issuedDate": "2025-7",
+    "abstract": "N/A",
+    "publisher": "Elsevier BV",
+    "type": "journal-article",
+    "journal": "Microbial Pathogenesis"
+  },
+  {
+    "doi": "10.1016/j.aqrep.2025.102728",
+    "title": "Genome re-sequencing and PCR amplification based simple and rapid sexing method for Procambarus clarkii",
+    "authors": "Yu Li; Honghao Jin; Yuan Gao; Fan Liu; Feng Qin; Dan Yang; Hui Luo; Ronghua Wu; Zhengshi Zhang; Shuqing Zheng; Hua Ye",
+    "issuedDate": "2025-7",
+    "abstract": "N/A",
+    "publisher": "Elsevier BV",
+    "type": "journal-article",
+    "journal": "Aquaculture Reports"
+  },
+  {
+    "doi": "10.1016/j.oceaneng.2025.121579",
+    "title": "A numerical model of ship manoeuvring for the KVLCC2 hull, in regular and long-crested irregular waves",
+    "authors": "Maria Acanfora; Marco Altosole; Silvia Pennino",
+    "issuedDate": "2025-7",
+    "abstract": "N/A",
+    "publisher": "Elsevier BV",
+    "type": "journal-article",
+    "journal": "Ocean Engineering"
+  },
+  {
+    "doi": "10.1016/j.asoc.2025.113282",
+    "title": "A particle swarm optimization-based ensemble metaheuristic for long-term transmission network expansion planning",
+    "authors": "Libin Hong; Guodong Wang; Ruibin Bai",
+    "issuedDate": "2025-7",
+    "abstract": "N/A",
+    "publisher": "Elsevier BV",
+    "type": "journal-article",
+    "journal": "Applied Soft Computing"
+  },
+  {
+    "doi": "10.1016/j.xhgg.2025.100439",
+    "title": "Advancing genetic services in African healthcare: Challenges, opportunities, and strategic insights from a scoping review",
+    "authors": "Karen Kengne Kamga; Pallissa Fonkam Marlyse; Seraphin Nguefack; Ambroise Wonkam",
+    "issuedDate": "2025-7",
+    "abstract": "N/A",
+    "publisher": "Elsevier BV",
+    "type": "journal-article",
+    "journal": "Human Genetics and Genomics Advances"
+  },
+  {
+    "doi": "10.1016/j.fuel.2025.134872",
+    "title": "Influence of zinc ferrite nanocomposites for enhancing biohydrogen production during distillery wastewater treatment in microbial electrolysis cell",
+    "authors": "Jayachitra Murugaiyan; Anantharaman Narayanan; Samsudeen Naina Mohamed",
+    "issuedDate": "2025-7",
+    "abstract": "N/A",
+    "publisher": "Elsevier BV",
+    "type": "journal-article",
+    "journal": "Fuel"
+  },
+  {
+    "doi": "10.21608/ejmm.2025.386421.1660",
+    "title": "Human Mammary Tumor Virus Detection and APOBEC3G Expression in Breast Cancer: A Molecular Analysis of Iraqi FFPE Tissues",
+    "authors": "Budoor M. Al-Sharefy; Saife D. Al-Ahmer; Asan A.Q. Al-Niyazee",
+    "issuedDate": "2025-7-1",
+    "abstract": "N/A",
+    "publisher": "Egyptian Knowledge Bank",
+    "type": "journal-article",
+    "journal": "Egyptian Journal of Medical Microbiology"
+  },
+  {
+    "doi": "10.1016/j.annonc.2025.05.006",
+    "title": "Reply to Letter to the Editor “Lung cancer detection by electronic nose analysis of exhaled breath: a multi-center prospective external validation study” by Liu et al., G. Rocco, and Szarpak et al.",
+    "authors": "A.I.G. Buma; M.B. Muntinghe-Wagenaar; V. van der Noort; R. de Vries; M.M.F. Schuurbiers; P.J. Sterk; S.P.M. Schipper; J. Meurs; S.M. Cristescu; T.J.N. Hiltermann; M.M. van den Heuvel",
+    "issuedDate": "2025-7",
+    "abstract": "N/A",
+    "publisher": "Elsevier BV",
+    "type": "journal-article",
+    "journal": "Annals of Oncology"
   },
   {
     "doi": "10.1016/j.jmst.2024.10.018",
@@ -2010,16 +2000,6 @@
     "journal": "Water Research"
   },
   {
-    "doi": "10.1016/j.est.2025.116883",
-    "title": "SESP: Spatial energy storage perception for thermal vulnerability detection and localization",
-    "authors": "Luyu Tian; Chaoyu Dong; Xiaodan Yu; Yunfei Mu; Hongjie Jia",
-    "issuedDate": "2025-7",
-    "abstract": "N/A",
-    "publisher": "Elsevier BV",
-    "type": "journal-article",
-    "journal": "Journal of Energy Storage"
-  },
-  {
     "doi": "10.1016/j.ecoleng.2025.107647",
     "title": "Effects of long-term management measures on soil enzyme activity and microbial nutrient dynamics in an arid environment: A case study from the Southern Taklimakan Desert",
     "authors": "Yi Du; Yulin Zhang; Waqar Islam; Fanjiang Zeng",
@@ -2028,6 +2008,16 @@
     "publisher": "Elsevier BV",
     "type": "journal-article",
     "journal": "Ecological Engineering"
+  },
+  {
+    "doi": "10.1016/j.est.2025.116883",
+    "title": "SESP: Spatial energy storage perception for thermal vulnerability detection and localization",
+    "authors": "Luyu Tian; Chaoyu Dong; Xiaodan Yu; Yunfei Mu; Hongjie Jia",
+    "issuedDate": "2025-7",
+    "abstract": "N/A",
+    "publisher": "Elsevier BV",
+    "type": "journal-article",
+    "journal": "Journal of Energy Storage"
   },
   {
     "doi": "10.1016/j.eswa.2025.127341",
@@ -2080,16 +2070,6 @@
     "journal": "Expert Systems with Applications"
   },
   {
-    "doi": "10.1016/j.buildenv.2025.113122",
-    "title": "A comprehensive review and variability analysis of odor detection thresholds and their influence on building material odor assessments",
-    "authors": "Lulu Ren; Yibing Hu; Weihui Liang",
-    "issuedDate": "2025-7",
-    "abstract": "N/A",
-    "publisher": "Elsevier BV",
-    "type": "journal-article",
-    "journal": "Building and Environment"
-  },
-  {
     "doi": "10.1016/j.cej.2025.163556",
     "title": "Reprogramming Schizochytrium cell factory for High-Yield production of astaxanthin via mutagenesis and metabolic engineering",
     "authors": "Yi Hu; Yu Duan; Yuan Zhang; Longxue Ma; Yida Zhai; Wuxi Chen; Liucheng Long; Wenqin Bai; Yanbing Shen; Limei Chen; Xiaoqing Ren; Demao Li",
@@ -2110,6 +2090,16 @@
     "journal": "Construction and Building Materials"
   },
   {
+    "doi": "10.1016/j.buildenv.2025.113122",
+    "title": "A comprehensive review and variability analysis of odor detection thresholds and their influence on building material odor assessments",
+    "authors": "Lulu Ren; Yibing Hu; Weihui Liang",
+    "issuedDate": "2025-7",
+    "abstract": "N/A",
+    "publisher": "Elsevier BV",
+    "type": "journal-article",
+    "journal": "Building and Environment"
+  },
+  {
     "doi": "10.1016/j.avsg.2024.10.014",
     "title": "Fuzi Polysaccharide Isolated from Aconitum Carmichaeli Protects Against Liquid Nitrogen Cryopreservation-Induced Damage in Rat Abdominal Aorta by Enhancing Autophagy",
     "authors": "Yehong Shi; Yujia Zhong; Jundong Long; Shijiu Chen; Cheng Wang",
@@ -2120,56 +2110,6 @@
     "journal": "Annals of Vascular Surgery"
   },
   {
-    "doi": "10.1109/tsmc.2025.3574771",
-    "title": "Attack Detection and Security Control for Advanced Cyber-Physical Systems and Its Applications",
-    "authors": "N/A",
-    "issuedDate": "2025-7",
-    "abstract": "N/A",
-    "publisher": "Institute of Electrical and Electronics Engineers (IEEE)",
-    "type": "journal-article",
-    "journal": "IEEE Transactions on Systems, Man, and Cybernetics: Systems"
-  },
-  {
-    "doi": "10.1016/j.xhgg.2025.100461",
-    "title": "Clinical features and molecular mechanisms of RP1L1 variants causing occult macular dystrophy",
-    "authors": "Yang Pan; Daisuke Iejima; Kazutoshi Yoshitake; Kazushige Tsunoda; Takeshi Iwata",
-    "issuedDate": "2025-7",
-    "abstract": "N/A",
-    "publisher": "Elsevier BV",
-    "type": "journal-article",
-    "journal": "Human Genetics and Genomics Advances"
-  },
-  {
-    "doi": "10.1016/j.cej.2025.163889",
-    "title": "Transfluthrin-loaded electrospun nanohybrids for long-term mosquito control and efficient air filtration",
-    "authors": "Huiping Chen; Zhifei Yang; Yingxi Zhang; Qing Yin; Qiliang Huang; Lidong Cao",
-    "issuedDate": "2025-7",
-    "abstract": "N/A",
-    "publisher": "Elsevier BV",
-    "type": "journal-article",
-    "journal": "Chemical Engineering Journal"
-  },
-  {
-    "doi": "10.1016/j.fbio.2025.106818",
-    "title": "Plant-derived peptides and bioactive compounds: Mechanisms of AGEs formation, detection, and innovative approaches for prevention in food processing",
-    "authors": "Su Hlaing Phyo; Mohammad Shariful Siddique; Anam Mushtaq; Mst Nushrat Yiasmin; Kamal Alahmad; Imad Khan; Mohamed Ghamry; Wei Zhao",
-    "issuedDate": "2025-7",
-    "abstract": "N/A",
-    "publisher": "Elsevier BV",
-    "type": "journal-article",
-    "journal": "Food Bioscience"
-  },
-  {
-    "doi": "10.1016/j.matchemphys.2025.130660",
-    "title": "A unique VS2 nanosheet decorated metal-organic framework based highly synergistic electrocatalyst for the efficient detection of melamine in food samples",
-    "authors": "Nandha Gopal Balasubramaniyan; Sethupathy Ramanathan; Narendra Pal Singh Chauhan; Panneerselvam Perumal",
-    "issuedDate": "2025-7",
-    "abstract": "N/A",
-    "publisher": "Elsevier BV",
-    "type": "journal-article",
-    "journal": "Materials Chemistry and Physics"
-  },
-  {
     "doi": "10.1016/j.ijbiomac.2025.144895",
     "title": "Lignin defined ordered hard domains toward mechanically robust, long-term weather resistant bio-elastomer",
     "authors": "Zihan Li; Haojie Hong; Han Wu; Dengfeng Wang; Lin Liu; Michał Puchalski; Juming Yao",
@@ -2178,16 +2118,6 @@
     "publisher": "Elsevier BV",
     "type": "journal-article",
     "journal": "International Journal of Biological Macromolecules"
-  },
-  {
-    "doi": "10.1016/j.mtcomm.2025.113063",
-    "title": "Optimizing the optoelectronic property of vapor-deposited CsPbCl3 films by triphenylphosphine oxide doping for high-performance self-powered UV detection",
-    "authors": "Xingyue Liu; Xingsheng Wang; Guojun Wen",
-    "issuedDate": "2025-7",
-    "abstract": "N/A",
-    "publisher": "Elsevier BV",
-    "type": "journal-article",
-    "journal": "Materials Today Communications"
   },
   {
     "doi": "10.1016/j.ijbiomac.2025.144866",
@@ -2210,6 +2140,86 @@
     "journal": "International Journal of Biological Macromolecules"
   },
   {
+    "doi": "10.1016/j.ecmx.2025.101061",
+    "title": "Optimisation of metastable supercooled liquid phase change material for long-term heat energy accumulation",
+    "authors": "Jiří Ryšavý; Jakub Čespiva; Thangavel Sangeetha; Christian Teicht; Matěj Charvát; Wei-Mon Yan; Ricardo Chacartegui; Tadeáš Ochodek",
+    "issuedDate": "2025-7",
+    "abstract": "N/A",
+    "publisher": "Elsevier BV",
+    "type": "journal-article",
+    "journal": "Energy Conversion and Management: X"
+  },
+  {
+    "doi": "10.1016/j.matchemphys.2025.130660",
+    "title": "A unique VS2 nanosheet decorated metal-organic framework based highly synergistic electrocatalyst for the efficient detection of melamine in food samples",
+    "authors": "Nandha Gopal Balasubramaniyan; Sethupathy Ramanathan; Narendra Pal Singh Chauhan; Panneerselvam Perumal",
+    "issuedDate": "2025-7",
+    "abstract": "N/A",
+    "publisher": "Elsevier BV",
+    "type": "journal-article",
+    "journal": "Materials Chemistry and Physics"
+  },
+  {
+    "doi": "10.1016/j.cej.2025.163889",
+    "title": "Transfluthrin-loaded electrospun nanohybrids for long-term mosquito control and efficient air filtration",
+    "authors": "Huiping Chen; Zhifei Yang; Yingxi Zhang; Qing Yin; Qiliang Huang; Lidong Cao",
+    "issuedDate": "2025-7",
+    "abstract": "N/A",
+    "publisher": "Elsevier BV",
+    "type": "journal-article",
+    "journal": "Chemical Engineering Journal"
+  },
+  {
+    "doi": "10.1016/j.xhgg.2025.100461",
+    "title": "Clinical features and molecular mechanisms of RP1L1 variants causing occult macular dystrophy",
+    "authors": "Yang Pan; Daisuke Iejima; Kazutoshi Yoshitake; Kazushige Tsunoda; Takeshi Iwata",
+    "issuedDate": "2025-7",
+    "abstract": "N/A",
+    "publisher": "Elsevier BV",
+    "type": "journal-article",
+    "journal": "Human Genetics and Genomics Advances"
+  },
+  {
+    "doi": "10.1109/tsmc.2025.3574771",
+    "title": "Attack Detection and Security Control for Advanced Cyber-Physical Systems and Its Applications",
+    "authors": "N/A",
+    "issuedDate": "2025-7",
+    "abstract": "N/A",
+    "publisher": "Institute of Electrical and Electronics Engineers (IEEE)",
+    "type": "journal-article",
+    "journal": "IEEE Transactions on Systems, Man, and Cybernetics: Systems"
+  },
+  {
+    "doi": "10.1016/j.ejso.2025.109751",
+    "title": "Colorectal liver metastasis resection results in excellent long-term quality of life and low symptom burden",
+    "authors": "Nazim Bhimani; Mbathio Dieng; Patrick J. Kelly; Thomas J. Hugh",
+    "issuedDate": "2025-7",
+    "abstract": "N/A",
+    "publisher": "Elsevier BV",
+    "type": "journal-article",
+    "journal": "European Journal of Surgical Oncology"
+  },
+  {
+    "doi": "10.1016/j.fbio.2025.106818",
+    "title": "Plant-derived peptides and bioactive compounds: Mechanisms of AGEs formation, detection, and innovative approaches for prevention in food processing",
+    "authors": "Su Hlaing Phyo; Mohammad Shariful Siddique; Anam Mushtaq; Mst Nushrat Yiasmin; Kamal Alahmad; Imad Khan; Mohamed Ghamry; Wei Zhao",
+    "issuedDate": "2025-7",
+    "abstract": "N/A",
+    "publisher": "Elsevier BV",
+    "type": "journal-article",
+    "journal": "Food Bioscience"
+  },
+  {
+    "doi": "10.1016/j.mtcomm.2025.113063",
+    "title": "Optimizing the optoelectronic property of vapor-deposited CsPbCl3 films by triphenylphosphine oxide doping for high-performance self-powered UV detection",
+    "authors": "Xingyue Liu; Xingsheng Wang; Guojun Wen",
+    "issuedDate": "2025-7",
+    "abstract": "N/A",
+    "publisher": "Elsevier BV",
+    "type": "journal-article",
+    "journal": "Materials Today Communications"
+  },
+  {
     "doi": "10.1016/j.ipm.2025.104108",
     "title": "Temporal-spatial hierarchical contrastive learning for misinformation detection: A public-behavior perspective",
     "authors": "Gang Ren; Li Jiang; Tingting Huang; Ying Yang; Taeho Hong",
@@ -2218,36 +2228,6 @@
     "publisher": "Elsevier BV",
     "type": "journal-article",
     "journal": "Information Processing &amp; Management"
-  },
-  {
-    "doi": "10.1016/j.microc.2025.114047",
-    "title": "Passion Fruit-Shaped Iron-Nickel Co-Doped carbon spheres for efficient and sensitive detection of nitrobenzene pollutants",
-    "authors": "Longyao Xu; Lin Hao; Ruohan Yang; Ming Su; Yufan Zhang",
-    "issuedDate": "2025-7",
-    "abstract": "N/A",
-    "publisher": "Elsevier BV",
-    "type": "journal-article",
-    "journal": "Microchemical Journal"
-  },
-  {
-    "doi": "10.1016/j.yexcr.2025.114651",
-    "title": "Estradiol inhibits endometrial injury by promoting the stability of the KLF15 protein and the recovery of mitochondrial function",
-    "authors": "Jianghong Zhou; Zhenghua Xiong; Xicui Long; Lijuan Yang; Wenjiao Jin; Xuesong Han",
-    "issuedDate": "2025-7",
-    "abstract": "N/A",
-    "publisher": "Elsevier BV",
-    "type": "journal-article",
-    "journal": "Experimental Cell Research"
-  },
-  {
-    "doi": "10.2460/javma.24.08.0516",
-    "title": "Validation of goniometric measurements of rotational laxity of the canine stifle",
-    "authors": "Morgan Winters; Dominique Griffon; Aleksandra Long; Zachary Morris; Emma Faulkner; Fanglong Dong; David J. Schaeffer",
-    "issuedDate": "2025-7-1",
-    "abstract": "Abstract\n\nObjective\nTo validate goniometric measurements of stifle rotational laxity in dogs in an ex vivo study and determine their reproducibility in a clinical setting.\n\n\nMethods\nIn phase 1, 16 normal pelvic limbs were harvested from 8 canine cadavers. Goniometric measurements, including tibial torsion (TT) and internal and external rotation of the stifle were compared within limbs and between groups before and after each of the following modifications: transection of the cranial cruciate ligament (CCL) as a model of rotational hyperlaxity (CCL deficiency [CCLD]), rotational osteotomy as a model of TT, and CCLD+TT. A lateral fabella suture (LFS) was then placed in each limb before measurements were repeated. Phase 2 was a clinical prospective study of 51 awake dogs (102 limbs). Torsion and stifle rotations were measured by 2 investigators, 1 in triplicate. Correlation coefficients were calculated to assess intra- and interinvestigator reproducibility.\n\n\nResults\nIn phase 1, internal rotation increased by 10.6 ± 7.2° after CCL transection. Placement of an LFS did not influence TT but decreased internal rotation within limbs. Internal rotation of the stifle was increased in all CCLD limbs (CCLD, 32.6 ± 7.6°; CCLD+TT, 33.0 ± 12.3°) compared to intact limbs (24.4 ± 5.8°) and CCLD limbs repaired with LFS (6.3 ± 5.1°). In phase 2, correlation coefficients within and between investigators were &gt; 0.9 for TT and internal rotation angles of the stifle.\n\n\nConclusions\nGoniometry allowed the detection of experimentally induced hyperlaxity and was reproducible in awake dogs.\n\n\nClinical Relevance\nGoniometric assessment of stifle rotation should be considered during routine orthopedic examination.",
-    "publisher": "American Veterinary Medical Association (AVMA)",
-    "type": "journal-article",
-    "journal": "Journal of the American Veterinary Medical Association"
   },
   {
     "doi": "10.1016/j.compbiomed.2025.110316",
@@ -2260,14 +2240,24 @@
     "journal": "Computers in Biology and Medicine"
   },
   {
-    "doi": "10.1016/j.ejso.2025.109751",
-    "title": "Colorectal liver metastasis resection results in excellent long-term quality of life and low symptom burden",
-    "authors": "Nazim Bhimani; Mbathio Dieng; Patrick J. Kelly; Thomas J. Hugh",
+    "doi": "10.2460/javma.24.08.0516",
+    "title": "Validation of goniometric measurements of rotational laxity of the canine stifle",
+    "authors": "Morgan Winters; Dominique Griffon; Aleksandra Long; Zachary Morris; Emma Faulkner; Fanglong Dong; David J. Schaeffer",
+    "issuedDate": "2025-7-1",
+    "abstract": "Abstract\n\nObjective\nTo validate goniometric measurements of stifle rotational laxity in dogs in an ex vivo study and determine their reproducibility in a clinical setting.\n\n\nMethods\nIn phase 1, 16 normal pelvic limbs were harvested from 8 canine cadavers. Goniometric measurements, including tibial torsion (TT) and internal and external rotation of the stifle were compared within limbs and between groups before and after each of the following modifications: transection of the cranial cruciate ligament (CCL) as a model of rotational hyperlaxity (CCL deficiency [CCLD]), rotational osteotomy as a model of TT, and CCLD+TT. A lateral fabella suture (LFS) was then placed in each limb before measurements were repeated. Phase 2 was a clinical prospective study of 51 awake dogs (102 limbs). Torsion and stifle rotations were measured by 2 investigators, 1 in triplicate. Correlation coefficients were calculated to assess intra- and interinvestigator reproducibility.\n\n\nResults\nIn phase 1, internal rotation increased by 10.6 ± 7.2° after CCL transection. Placement of an LFS did not influence TT but decreased internal rotation within limbs. Internal rotation of the stifle was increased in all CCLD limbs (CCLD, 32.6 ± 7.6°; CCLD+TT, 33.0 ± 12.3°) compared to intact limbs (24.4 ± 5.8°) and CCLD limbs repaired with LFS (6.3 ± 5.1°). In phase 2, correlation coefficients within and between investigators were &gt; 0.9 for TT and internal rotation angles of the stifle.\n\n\nConclusions\nGoniometry allowed the detection of experimentally induced hyperlaxity and was reproducible in awake dogs.\n\n\nClinical Relevance\nGoniometric assessment of stifle rotation should be considered during routine orthopedic examination.",
+    "publisher": "American Veterinary Medical Association (AVMA)",
+    "type": "journal-article",
+    "journal": "Journal of the American Veterinary Medical Association"
+  },
+  {
+    "doi": "10.1016/j.hpb.2025.03.450",
+    "title": "“Obesity Paradox” as a new insight from long-term survivors in pancreatic cancer patients",
+    "authors": "Boram Lee; Ho-Seong Han; Yoo-Seok Yoon; Yeshong Park; MeeYoung Kang; Jinju Kim",
     "issuedDate": "2025-7",
     "abstract": "N/A",
     "publisher": "Elsevier BV",
     "type": "journal-article",
-    "journal": "European Journal of Surgical Oncology"
+    "journal": "HPB"
   },
   {
     "doi": "10.1061/jccee5.cpeng-6240",
@@ -2310,6 +2300,36 @@
     "journal": "IEEE Transactions on Network Science and Engineering"
   },
   {
+    "doi": "10.1016/j.yexcr.2025.114651",
+    "title": "Estradiol inhibits endometrial injury by promoting the stability of the KLF15 protein and the recovery of mitochondrial function",
+    "authors": "Jianghong Zhou; Zhenghua Xiong; Xicui Long; Lijuan Yang; Wenjiao Jin; Xuesong Han",
+    "issuedDate": "2025-7",
+    "abstract": "N/A",
+    "publisher": "Elsevier BV",
+    "type": "journal-article",
+    "journal": "Experimental Cell Research"
+  },
+  {
+    "doi": "10.1016/j.microc.2025.114047",
+    "title": "Passion Fruit-Shaped Iron-Nickel Co-Doped carbon spheres for efficient and sensitive detection of nitrobenzene pollutants",
+    "authors": "Longyao Xu; Lin Hao; Ruohan Yang; Ming Su; Yufan Zhang",
+    "issuedDate": "2025-7",
+    "abstract": "N/A",
+    "publisher": "Elsevier BV",
+    "type": "journal-article",
+    "journal": "Microchemical Journal"
+  },
+  {
+    "doi": "10.1016/j.fochx.2025.102687",
+    "title": "Artificial intelligence-driven detection of microplastics in food: A comprehensive review of sources, health risks, detection techniques, and emerging artificial intelligence solutions",
+    "authors": "Himani Rawat; Ashish Gaur; Narpinder Singh; Manickam Selvaraj; Arun Karnwal; Gaurav Pant; Tabarak Malik",
+    "issuedDate": "2025-7",
+    "abstract": "N/A",
+    "publisher": "Elsevier BV",
+    "type": "journal-article",
+    "journal": "Food Chemistry: X"
+  },
+  {
     "doi": "10.1016/j.iot.2025.101621",
     "title": "Memory-efficient and robust detection of Mirai botnet for future 6G-enabled IoT networks",
     "authors": "Zainab Alwaisi",
@@ -2330,36 +2350,6 @@
     "journal": "LWT"
   },
   {
-    "doi": "10.1016/j.hpb.2025.03.450",
-    "title": "“Obesity Paradox” as a new insight from long-term survivors in pancreatic cancer patients",
-    "authors": "Boram Lee; Ho-Seong Han; Yoo-Seok Yoon; Yeshong Park; MeeYoung Kang; Jinju Kim",
-    "issuedDate": "2025-7",
-    "abstract": "N/A",
-    "publisher": "Elsevier BV",
-    "type": "journal-article",
-    "journal": "HPB"
-  },
-  {
-    "doi": "10.1016/j.fochx.2025.102687",
-    "title": "Artificial intelligence-driven detection of microplastics in food: A comprehensive review of sources, health risks, detection techniques, and emerging artificial intelligence solutions",
-    "authors": "Himani Rawat; Ashish Gaur; Narpinder Singh; Manickam Selvaraj; Arun Karnwal; Gaurav Pant; Tabarak Malik",
-    "issuedDate": "2025-7",
-    "abstract": "N/A",
-    "publisher": "Elsevier BV",
-    "type": "journal-article",
-    "journal": "Food Chemistry: X"
-  },
-  {
-    "doi": "10.21203/rs.3.rs-6898591/v1",
-    "title": "OBF Decomposition and Detection of Aerial Magnetic Anomaly Based on Support Vector Machine",
-    "authors": "Zhentao Yu; Pu Cheng; Cheng Chi; Chun Zhou; Tongyu Li; Liming Yuan; Dianji Jia",
-    "issuedDate": "2025-7-1",
-    "abstract": "Abstract\n        When the orthogonal basis function (OBF) is used to decompose and detect the aeromagnetic anomaly, the unreasonable proportion of the decomposition coefficient leads to a high false alarm rate in the case of low signal-to-noise ratio. Therefore, the OBF decomposition detection method based on support vector machine (SVM) is proposed. This method uses the SVM pattern recognition method to learn OBF decomposition coefficient characteristics of the target samples and the background noise samples, and optimizes the proportion of each OBF decomposition coefficient in the detection statistics through machine learning, thus realizing target magnetic anomaly detection through the SVM classification. The method is tested and verified by using test samples of measured background noise and simulated target signals. The results show that the proposed method can effectively improve the detection efficiency of OBF decomposition detection method.",
-    "publisher": "Springer Science and Business Media LLC",
-    "type": "posted-content",
-    "journal": "N/A"
-  },
-  {
     "doi": "10.1257/aer.20231278",
     "title": "The Long-Run Effects of Government Spending",
     "authors": "Juan Antolin-Diaz; Paolo Surico",
@@ -2368,16 +2358,6 @@
     "publisher": "American Economic Association",
     "type": "journal-article",
     "journal": "American Economic Review"
-  },
-  {
-    "doi": "10.1021/acsmaterialslett.5c00777",
-    "title": "Highly Sensitive Detection of ppb-Level Uranyl via Exfoliation-Activated Luminescent Covalent–Organic Framework Nanosheets",
-    "authors": "Dongyang Xu; Shuhan Lu; Xianhuan Hao; Shenghai Yang; Junhao Lu; Ye Huang; Wentao Chen; Huaixin Hao; Siyan Huang; Lanhua Chen; Dan Zhou; Baoyu Li; Song-Bai Tang; Zhipeng Wang; Fan Liu; Xiuyang Zou; Guowen Peng; Lixi Chen; Yanlong Wang; Juan Diwu; Shuao Wang",
-    "issuedDate": "2025-7-1",
-    "abstract": "N/A",
-    "publisher": "American Chemical Society (ACS)",
-    "type": "journal-article",
-    "journal": "ACS Materials Letters"
   },
   {
     "doi": "10.1186/s12864-025-11733-4",
@@ -2390,6 +2370,16 @@
     "journal": "BMC Genomics"
   },
   {
+    "doi": "10.21203/rs.3.rs-6898591/v1",
+    "title": "OBF Decomposition and Detection of Aerial Magnetic Anomaly Based on Support Vector Machine",
+    "authors": "Zhentao Yu; Pu Cheng; Cheng Chi; Chun Zhou; Tongyu Li; Liming Yuan; Dianji Jia",
+    "issuedDate": "2025-7-1",
+    "abstract": "Abstract\n        When the orthogonal basis function (OBF) is used to decompose and detect the aeromagnetic anomaly, the unreasonable proportion of the decomposition coefficient leads to a high false alarm rate in the case of low signal-to-noise ratio. Therefore, the OBF decomposition detection method based on support vector machine (SVM) is proposed. This method uses the SVM pattern recognition method to learn OBF decomposition coefficient characteristics of the target samples and the background noise samples, and optimizes the proportion of each OBF decomposition coefficient in the detection statistics through machine learning, thus realizing target magnetic anomaly detection through the SVM classification. The method is tested and verified by using test samples of measured background noise and simulated target signals. The results show that the proposed method can effectively improve the detection efficiency of OBF decomposition detection method.",
+    "publisher": "Springer Science and Business Media LLC",
+    "type": "posted-content",
+    "journal": "N/A"
+  },
+  {
     "doi": "10.1128/spectrum.01488-24",
     "title": "Exploring the cecal microbial community associated with fat deposition in sheep and its possible pathways of action",
     "authors": "Jiangbo Cheng; Dan Xu; Deyin Zhang; Kai Huang; Yukun Zhang; Xiaolong Li; Yuan Zhao; Liming Zhao; Quanzhong Xu; Xiaobin Yang; Zongwu Ma; Huibin Tian; Xiaoxue Zhang; Weimin Wang",
@@ -2398,6 +2388,16 @@
     "publisher": "American Society for Microbiology",
     "type": "journal-article",
     "journal": "Microbiology Spectrum"
+  },
+  {
+    "doi": "10.1021/acsmaterialslett.5c00777",
+    "title": "Highly Sensitive Detection of ppb-Level Uranyl via Exfoliation-Activated Luminescent Covalent–Organic Framework Nanosheets",
+    "authors": "Dongyang Xu; Shuhan Lu; Xianhuan Hao; Shenghai Yang; Junhao Lu; Ye Huang; Wentao Chen; Huaixin Hao; Siyan Huang; Lanhua Chen; Dan Zhou; Baoyu Li; Song-Bai Tang; Zhipeng Wang; Fan Liu; Xiuyang Zou; Guowen Peng; Lixi Chen; Yanlong Wang; Juan Diwu; Shuao Wang",
+    "issuedDate": "2025-7-1",
+    "abstract": "N/A",
+    "publisher": "American Chemical Society (ACS)",
+    "type": "journal-article",
+    "journal": "ACS Materials Letters"
   },
   {
     "doi": "10.1016/j.patcog.2025.111465",
@@ -2540,24 +2540,34 @@
     "journal": "Applied Surface Science"
   },
   {
-    "doi": "10.1016/j.snb.2025.137671",
-    "title": "Ratiometric fluorometry on microfluidic paper-based analytical device for simultaneous glucose and cholesterol detection using MnFe-layered double hydroxides as peroxidase mimic",
-    "authors": "Nattasa Kitchawengkul; Akarapong Prakobkij; Rattaporn Saenmuangchin; Daniel Citterio; Duangjai Nacapricha; Purim Jarujamrus",
+    "doi": "10.1016/j.cej.2025.163384",
+    "title": "Chemical homogeneity enables long-term stability of cobalt-free high-voltage spinel cathode materials",
+    "authors": "Chunlin Zeng; Guanjun Chen; Qian Zhang; Yan Li; Chengzhi Dai; Ruotong Zhao; Shichun Mu; Weihao Zeng; Jinlong Yang",
     "issuedDate": "2025-7",
     "abstract": "N/A",
     "publisher": "Elsevier BV",
     "type": "journal-article",
-    "journal": "Sensors and Actuators B: Chemical"
+    "journal": "Chemical Engineering Journal"
   },
   {
-    "doi": "10.1016/j.jiph.2025.102796",
-    "title": "Healthcare-associated infection and antimicrobial use among residents of long-term care facilities in Italy: Preliminary results of a point prevalence survey",
-    "authors": "Lorenzo Brambilla; Lolita Azrumelashvili; Manfredi Grasso; Assunta Gabrielli; Donatella Lania; Andrea Labruto; Letizia Oreni; Roberto Pupillo; Maria Rosa Sbardellati Tommaso Petitti; Antonio Schirripa; Federica Tartarone; Luciana Bevilacqua",
+    "doi": "10.1016/j.cej.2025.163790",
+    "title": "3D printing of self-powered triboelectric intelligent system with enhanced output performance for material identification via machine learning",
+    "authors": "Bingyu Huang; Kailong Xu; Xiaofei Zhang; Yongcheng Zhang; Yun-Ze Long; Shuzhi Sam Ge; Xiangxia Wei",
     "issuedDate": "2025-7",
     "abstract": "N/A",
     "publisher": "Elsevier BV",
     "type": "journal-article",
-    "journal": "Journal of Infection and Public Health"
+    "journal": "Chemical Engineering Journal"
+  },
+  {
+    "doi": "10.3030/101213822",
+    "title": "N/A",
+    "authors": "N/A",
+    "issuedDate": "2025-7-1",
+    "abstract": "N/A",
+    "publisher": "Publications Office of the European Union",
+    "type": "grant",
+    "journal": "N/A"
   },
   {
     "doi": "10.1016/j.elecom.2025.107934",
@@ -2610,34 +2620,24 @@
     "journal": "Bioresource Technology"
   },
   {
-    "doi": "10.1016/j.cej.2025.163384",
-    "title": "Chemical homogeneity enables long-term stability of cobalt-free high-voltage spinel cathode materials",
-    "authors": "Chunlin Zeng; Guanjun Chen; Qian Zhang; Yan Li; Chengzhi Dai; Ruotong Zhao; Shichun Mu; Weihao Zeng; Jinlong Yang",
+    "doi": "10.1016/j.snb.2025.137671",
+    "title": "Ratiometric fluorometry on microfluidic paper-based analytical device for simultaneous glucose and cholesterol detection using MnFe-layered double hydroxides as peroxidase mimic",
+    "authors": "Nattasa Kitchawengkul; Akarapong Prakobkij; Rattaporn Saenmuangchin; Daniel Citterio; Duangjai Nacapricha; Purim Jarujamrus",
     "issuedDate": "2025-7",
     "abstract": "N/A",
     "publisher": "Elsevier BV",
     "type": "journal-article",
-    "journal": "Chemical Engineering Journal"
+    "journal": "Sensors and Actuators B: Chemical"
   },
   {
-    "doi": "10.1016/j.cej.2025.163790",
-    "title": "3D printing of self-powered triboelectric intelligent system with enhanced output performance for material identification via machine learning",
-    "authors": "Bingyu Huang; Kailong Xu; Xiaofei Zhang; Yongcheng Zhang; Yun-Ze Long; Shuzhi Sam Ge; Xiangxia Wei",
+    "doi": "10.1016/j.jiph.2025.102796",
+    "title": "Healthcare-associated infection and antimicrobial use among residents of long-term care facilities in Italy: Preliminary results of a point prevalence survey",
+    "authors": "Lorenzo Brambilla; Lolita Azrumelashvili; Manfredi Grasso; Assunta Gabrielli; Donatella Lania; Andrea Labruto; Letizia Oreni; Roberto Pupillo; Maria Rosa Sbardellati Tommaso Petitti; Antonio Schirripa; Federica Tartarone; Luciana Bevilacqua",
     "issuedDate": "2025-7",
     "abstract": "N/A",
     "publisher": "Elsevier BV",
     "type": "journal-article",
-    "journal": "Chemical Engineering Journal"
-  },
-  {
-    "doi": "10.3030/101213822",
-    "title": "N/A",
-    "authors": "N/A",
-    "issuedDate": "2025-7-1",
-    "abstract": "N/A",
-    "publisher": "Publications Office of the European Union",
-    "type": "grant",
-    "journal": "N/A"
+    "journal": "Journal of Infection and Public Health"
   },
   {
     "doi": "10.1016/j.wear.2025.206092",
@@ -2648,6 +2648,196 @@
     "publisher": "Elsevier BV",
     "type": "journal-article",
     "journal": "Wear"
+  },
+  {
+    "doi": "10.1016/j.ast.2025.110243",
+    "title": "Convolutional neural network-based multi-modal detection model for combustion instability in swirling flames",
+    "authors": "Wei Pan; Shize Tian; Jianzhong Li; Wu Jin; Li Yuan; Qian Yao",
+    "issuedDate": "2025-7",
+    "abstract": "N/A",
+    "publisher": "Elsevier BV",
+    "type": "journal-article",
+    "journal": "Aerospace Science and Technology"
+  },
+  {
+    "doi": "10.1016/j.jenvman.2025.125819",
+    "title": "Concurrent alien plant invasion and biodiversity loss enhance soil microbial carbon use efficiency by shifting the balance between microbial carbon and nitrogen acquisition",
+    "authors": "Abdulkareem Raheem; Babar Iqbal; Yanjiao Wang; Jiabao Lou; Yi Tang; Jian Li; Qiuyue Zhang; Sixuan Xu; Zhicong Dai; Xiaojun Zheng; Guangqian Ren; Guanlin Li; Daolin Du",
+    "issuedDate": "2025-7",
+    "abstract": "N/A",
+    "publisher": "Elsevier BV",
+    "type": "journal-article",
+    "journal": "Journal of Environmental Management"
+  },
+  {
+    "doi": "10.1016/j.microc.2025.114098",
+    "title": "Coumarin-based molecular probe for triphosgene detection using analyte-triggered isocyanate generation",
+    "authors": "Bhanu Priya; Naresh Kumar; Roopa",
+    "issuedDate": "2025-7",
+    "abstract": "N/A",
+    "publisher": "Elsevier BV",
+    "type": "journal-article",
+    "journal": "Microchemical Journal"
+  },
+  {
+    "doi": "10.1016/j.microc.2025.114105",
+    "title": "Peptide-based electrochemical sensor for sensitive detection of amyloid-β oligomer with laccase-mimicking nanozyme assemblies as a signal amplifier",
+    "authors": "Zhi Li; Pengcheng Ren; Fan Zhang; Junli Cao; Jindong Li; Xiaojie Chai; Jianlong Ji; Shu Qin; Qingjiang Wang",
+    "issuedDate": "2025-7",
+    "abstract": "N/A",
+    "publisher": "Elsevier BV",
+    "type": "journal-article",
+    "journal": "Microchemical Journal"
+  },
+  {
+    "doi": "10.1016/j.ijbiomac.2025.144821",
+    "title": "Influence of hemicelluloses on the formation of regenerated Camellia oleifera shells holocellulose films",
+    "authors": "Xiaoqi Liu; Chuanshuang Hu; Haibo Long; Xiuyi Lin; Hong Yun; Jin Gu",
+    "issuedDate": "2025-7",
+    "abstract": "N/A",
+    "publisher": "Elsevier BV",
+    "type": "journal-article",
+    "journal": "International Journal of Biological Macromolecules"
+  },
+  {
+    "doi": "10.1016/j.ceramint.2025.02.392",
+    "title": "CaZr1-Ni O3- dense diffusion barrier limiting current oxygen sensor for high oxygen concentrations detection (2.1 mol%-21 mol%)",
+    "authors": "Junbo Long; Jinlian Li; Xiaofang Zhang; Jiegang You; Wendong Tan; Yakai Wang; Xiaoshuang Guo; Xudong Luo",
+    "issuedDate": "2025-7",
+    "abstract": "N/A",
+    "publisher": "Elsevier BV",
+    "type": "journal-article",
+    "journal": "Ceramics International"
+  },
+  {
+    "doi": "10.1016/j.cja.2025.103513",
+    "title": "Distributed collaborative target tracking of UAV formation considering passive detection efficiency",
+    "authors": "Zhan CHEN; Wenxing FU; Ruitao ZHANG; Ruiyang HONG; Wenbo YE",
+    "issuedDate": "2025-7",
+    "abstract": "N/A",
+    "publisher": "Elsevier BV",
+    "type": "journal-article",
+    "journal": "Chinese Journal of Aeronautics"
+  },
+  {
+    "doi": "10.1016/j.resinv.2025.05.001",
+    "title": "Impact of long COVID on the health-related quality of life of Japanese patients: A prospective nationwide cohort study",
+    "authors": "Kazuma Yagi; Masahiro Kondo; Hideki Terai; Takanori Asakura; Ryusei Kimura; Ryo Takemura; Hiromu Tanaka; Keiko Ohgino; Katsunori Masaki; Ho Namkoong; Shotaro Chubachi; Jun Miyata; Ichiro Kawada; Tatsuya Kaido; Shuko Mashimo; Keigo Kobayashi; Toshiyuki Hirano; Ho Lee; Kai Sugihara; Nao Omori; Mayuko Watase; Takao Mochimaru; Ryosuke Satomi; Yasushi Makino; Takashi Inoue; Koichi Sayama; Yoshitaka Oyamada; Makoto Ishii; Yasunori Sato; Koichi Fukunaga",
+    "issuedDate": "2025-7",
+    "abstract": "N/A",
+    "publisher": "Elsevier BV",
+    "type": "journal-article",
+    "journal": "Respiratory Investigation"
+  },
+  {
+    "doi": "10.1016/j.neunet.2025.107291",
+    "title": "Dual-view graph-of-graph representation learning with graph Transformer for graph-level anomaly detection",
+    "authors": "Wangyu Jin; Huifang Ma; Yingyue Zhang; Zhixin Li; Liang Chang",
+    "issuedDate": "2025-7",
+    "abstract": "N/A",
+    "publisher": "Elsevier BV",
+    "type": "journal-article",
+    "journal": "Neural Networks"
+  },
+  {
+    "doi": "10.1016/j.knosys.2025.113381",
+    "title": "CODdiff: Prior leading diffusion model for Camouflage Object Detection",
+    "authors": "Hong Zhang; Yixuan Lyu; Tian He; Xuliang Li; Yawei Li; Ding Yuan; Yifan Yang",
+    "issuedDate": "2025-7",
+    "abstract": "N/A",
+    "publisher": "Elsevier BV",
+    "type": "journal-article",
+    "journal": "Knowledge-Based Systems"
+  },
+  {
+    "doi": "10.1016/j.apor.2025.104653",
+    "title": "Inundation monitoring using a machine learning algorithm combining AI and edge detection",
+    "authors": "J. Derek Loftis; Hunter Harman; Sridhar Katragadda; Russell Lotspeich",
+    "issuedDate": "2025-7",
+    "abstract": "N/A",
+    "publisher": "Elsevier BV",
+    "type": "journal-article",
+    "journal": "Applied Ocean Research"
+  },
+  {
+    "doi": "10.1097/qai.0000000000003661",
+    "title": "Identifying Preferred Program Delivery Attributes for Long-Acting Injectable Cabotegravir-Rilpvirine in Three US HIV Clinics: A Discrete-Choice Experiment",
+    "authors": "Jose I. Gutierrez; Elizabeth T. Montgomery; Samantha E. Dilworth; Moira C. McNulty; Jonathan A. Colasanti; Mallory O. Johnson; Kimberly A. Koester; John A. Sauceda; Xavier A. Erguera; Kaylin Dance; Manami Diaz Tsuzuki; Matthew D. Hickey; Andrew D. Kerkhoff; Torsten B. Neilands; Ingrid Eshun-Wilson; Elvin Geng; Katerina A. Christopoulos",
+    "issuedDate": "2025-7-1",
+    "abstract": "Background:\n            Long-acting injectable cabotegravir and rilpivirine (CAB/RPV-LA) may overcome adherence barriers and provide treatment choice among people with HIV (PWH). However, little is known about the factors most likely to facilitate CAB/RPV-LA use.\n          \n          \n            Methods:\n            We conducted a discrete-choice experiment at three urban US HIV clinics, stratified by care engagement status (suboptimal care engagement defined as most recent HIV RNA ≥200 copies/mL or &lt;2 primary care visits with no HIV RNA measurement in the past year). The discrete-choice experiment had 6 attributes: visit location, conversation with one's HIV provider at injection, extra support services, visit length, extended hours, and cost. We used mixed logit regression to estimate preference weights and latent class analysis to identify preference groupings. We examined associations between covariates, attribute preferences, and latent class groups and estimated shares of preference toward hypothetical scenarios.\n          \n          \n            Results:\n            Between December 2021 and May 2022, 370 PWH participated. The median age was 46 years, 34% were cisgender female/gender minority, 59% were African American/Black, 13% were Latino/a/x, 34% experienced unstable housing, 19% endorsed illicit substance use, and 27% suboptimal engagement. Cost and visit location were the most important attributes. Latent class analysis identified three groups: (1) cost conscious (44%), (2) location driven (34%), and (3) provider/support services oriented (22%). Suboptimally engaged PWH preferred extra support services. Shares of preference suggested a predicted use of CAB/RPV-LA exceeding 80% across delivery scenarios with more preferred features.\n          \n          \n            Conclusions:\n            Participants strongly preferred CAB/RPV-LA delivery at no cost and accessible at their current HIV clinic. Preferences of PWH with suboptimal engagement were heterogeneous, suggesting the need for tailored, differentiated delivery programs offering choice.",
+    "publisher": "Ovid Technologies (Wolters Kluwer Health)",
+    "type": "journal-article",
+    "journal": "JAIDS Journal of Acquired Immune Deficiency Syndromes"
+  },
+  {
+    "doi": "10.1016/j.jpowsour.2025.237121",
+    "title": "Granular activated carbon tubular microbial fuel cell for decentralized greywater treatment",
+    "authors": "Carlos Gallardo-Bustos; Natalia Tapia; Ignacio T. Vargas",
+    "issuedDate": "2025-7",
+    "abstract": "N/A",
+    "publisher": "Elsevier BV",
+    "type": "journal-article",
+    "journal": "Journal of Power Sources"
+  },
+  {
+    "doi": "10.1016/j.amjcard.2025.03.009",
+    "title": "Surgeon Frequency of Aortic Root Enlargement and Long-Term Survival in Medicare Beneficiaries Undergoing Surgical Aortic Valve Replacement",
+    "authors": "John B. Eisenga; Taylor Pickering; Kyle A. McCullough; Jasjit Banwait; Sarah Hale; Katherine B. Harrington; William T. Brinkman; Michael J. Mack; J. Michael DiMaio; Justin M. Schaffer",
+    "issuedDate": "2025-7",
+    "abstract": "N/A",
+    "publisher": "Elsevier BV",
+    "type": "journal-article",
+    "journal": "The American Journal of Cardiology"
+  },
+  {
+    "doi": "10.1016/j.bios.2025.117362",
+    "title": "Biosensor-based methods for exosome detection with applications to disease diagnosis",
+    "authors": "Weikang Ge; Zheying Mu; Shiao Yang; Yujing Zeng; Ying Deng; Yifan Lin; Ping Xie; Genxi Li",
+    "issuedDate": "2025-7",
+    "abstract": "N/A",
+    "publisher": "Elsevier BV",
+    "type": "journal-article",
+    "journal": "Biosensors and Bioelectronics"
+  },
+  {
+    "doi": "10.1109/lra.2025.3575326",
+    "title": "Fast Contact Detection Via Fusion of Joint and Inertial Sensors for Parallel Robots in Human-Robot Collaboration",
+    "authors": "Aran Mohammad; Jan Piosik; Dustin Lehmann; Thomas Seel; Moritz Schappler",
+    "issuedDate": "2025-7",
+    "abstract": "N/A",
+    "publisher": "Institute of Electrical and Electronics Engineers (IEEE)",
+    "type": "journal-article",
+    "journal": "IEEE Robotics and Automation Letters"
+  },
+  {
+    "doi": "10.1016/j.fbio.2025.106831",
+    "title": "Contribution of moisture to functional microbial succession and functional expression in medium-high temperature Daqu",
+    "authors": "Yongqi Yao; Yi Luo; Mengyao Wu; Ling Gao; Jialin Zhang; Zhuangzhuang Jiang; Xuejian Jiang; Xiaole Xia",
+    "issuedDate": "2025-7",
+    "abstract": "N/A",
+    "publisher": "Elsevier BV",
+    "type": "journal-article",
+    "journal": "Food Bioscience"
+  },
+  {
+    "doi": "10.1016/j.ejogrb.2025.114042",
+    "title": "Multimodal management of peritoneal sarcomatosis in uterine sarcoma: Long term outcomes from a single institute in India",
+    "authors": "M D Ray; Rohan Kapoor; Nikhil BN",
+    "issuedDate": "2025-7",
+    "abstract": "N/A",
+    "publisher": "Elsevier BV",
+    "type": "journal-article",
+    "journal": "European Journal of Obstetrics &amp; Gynecology and Reproductive Biology"
+  },
+  {
+    "doi": "10.2307/jj.30412862",
+    "title": "Busting the Myth of the Communication Metaphor",
+    "authors": "SARAH READ",
+    "issuedDate": "2025-7-1",
+    "abstract": "N/A",
+    "publisher": "State University of New York Press",
+    "type": "monograph",
+    "journal": "N/A"
   },
   {
     "doi": "10.1016/j.porgcoat.2025.109276",
@@ -2690,66 +2880,6 @@
     "journal": "Mechanism and Machine Theory"
   },
   {
-    "doi": "10.1061/jwrmd5.wreng-6843",
-    "title": "Pressure Sensor Placement for Pipe Burst Detection and Localization in Water Distribution System",
-    "authors": "Tingchao Yu; Zekun Zou; Yanwei Cai; Hua Zhou; Shipeng Chu; Feifei Zheng",
-    "issuedDate": "2025-7",
-    "abstract": "N/A",
-    "publisher": "American Society of Civil Engineers (ASCE)",
-    "type": "journal-article",
-    "journal": "Journal of Water Resources Planning and Management"
-  },
-  {
-    "doi": "10.1016/j.rbmo.2024.104501",
-    "title": "Long-term effects of IVF on offspring kidneys in mice: observations from adolescence to adulthood",
-    "authors": "Xiaoqian Zhou; Yifei Sun; Wanbing Feng; Wenjing Wan; Linlin Cui",
-    "issuedDate": "2025-7",
-    "abstract": "N/A",
-    "publisher": "Elsevier BV",
-    "type": "journal-article",
-    "journal": "Reproductive BioMedicine Online"
-  },
-  {
-    "doi": "10.1016/j.ces.2025.121752",
-    "title": "Calcium hydroxyapatite nanoparticle-induced bio-electrocatalytic hydrogen production in a single-chambered carbon cloth-based cathodic microbial electrolysis cell",
-    "authors": "Fabrice Ndayisenga; Bobo Wang; Chengyu Zhang; Longyu Wang; Guilin Du; Zhisheng Yu",
-    "issuedDate": "2025-7",
-    "abstract": "N/A",
-    "publisher": "Elsevier BV",
-    "type": "journal-article",
-    "journal": "Chemical Engineering Science"
-  },
-  {
-    "doi": "10.12913/22998624/204321",
-    "title": "Anomaly detection and security threats in Internet of Things: A study of data integrity in the measurement process",
-    "authors": "Adam Paluch; Monika Paluch-Fersz; Michał Kalisz; Michalina Gryniewicz-Jaworska",
-    "issuedDate": "2025-7-1",
-    "abstract": "N/A",
-    "publisher": "Wydawnictwo Naukowe Gabriel Borowski (WNGB)",
-    "type": "journal-article",
-    "journal": "Advances in Science and Technology Research Journal"
-  },
-  {
-    "doi": "10.1016/j.ejps.2025.107117",
-    "title": "Characterization of digital camera-based UV illumination fluorescent imaging for concentration measurement with limit of detection, specificity and precision",
-    "authors": "Bettina Fazekas; Dorina Gréta Pogány; Dorián László Galata; Zsombor Kristóf Nagy; Lilla Alexandra Mészáros; Edit Hirsch",
-    "issuedDate": "2025-7",
-    "abstract": "N/A",
-    "publisher": "Elsevier BV",
-    "type": "journal-article",
-    "journal": "European Journal of Pharmaceutical Sciences"
-  },
-  {
-    "doi": "10.1016/j.eswa.2025.127741",
-    "title": "SEPM: Multiscale semantic enhancement-progressive multimodal fusion network for fake news detection",
-    "authors": "Hui Wang; Junfeng Guo; Shouxin Liu; Pengbing Chen; Xiaowei Li",
-    "issuedDate": "2025-7",
-    "abstract": "N/A",
-    "publisher": "Elsevier BV",
-    "type": "journal-article",
-    "journal": "Expert Systems with Applications"
-  },
-  {
     "doi": "10.1016/j.envpol.2025.126393",
     "title": "Lanthanum supplementation at the heading stage efficiently reduces cadmium content in rice by regulating key genes involved in cadmium uptake, translocation, and redistribution pathways",
     "authors": "Hua Yang; Jie Li; Caixia Xiao; Jian Long; Sen Li; Shuai Zhang; Zhiting Xiong",
@@ -2780,14 +2910,14 @@
     "journal": "Expert Systems with Applications"
   },
   {
-    "doi": "10.1016/j.compag.2025.110177",
-    "title": "MFD-YOLO: A fast and lightweight model for strawberry growth state detection",
-    "authors": "Haoyan Yang; Lina Yang; Thomas Wu; Yujian Yuan; Jincheng Li; Peng Li",
+    "doi": "10.1016/j.ejps.2025.107117",
+    "title": "Characterization of digital camera-based UV illumination fluorescent imaging for concentration measurement with limit of detection, specificity and precision",
+    "authors": "Bettina Fazekas; Dorina Gréta Pogány; Dorián László Galata; Zsombor Kristóf Nagy; Lilla Alexandra Mészáros; Edit Hirsch",
     "issuedDate": "2025-7",
     "abstract": "N/A",
     "publisher": "Elsevier BV",
     "type": "journal-article",
-    "journal": "Computers and Electronics in Agriculture"
+    "journal": "European Journal of Pharmaceutical Sciences"
   },
   {
     "doi": "10.1016/j.physletb.2025.139526",
@@ -2800,203 +2930,73 @@
     "journal": "Physics Letters B"
   },
   {
-    "doi": "10.1016/j.bios.2025.117362",
-    "title": "Biosensor-based methods for exosome detection with applications to disease diagnosis",
-    "authors": "Weikang Ge; Zheying Mu; Shiao Yang; Yujing Zeng; Ying Deng; Yifan Lin; Ping Xie; Genxi Li",
+    "doi": "10.1016/j.compag.2025.110177",
+    "title": "MFD-YOLO: A fast and lightweight model for strawberry growth state detection",
+    "authors": "Haoyan Yang; Lina Yang; Thomas Wu; Yujian Yuan; Jincheng Li; Peng Li",
     "issuedDate": "2025-7",
     "abstract": "N/A",
     "publisher": "Elsevier BV",
     "type": "journal-article",
-    "journal": "Biosensors and Bioelectronics"
+    "journal": "Computers and Electronics in Agriculture"
   },
   {
-    "doi": "10.1016/j.ast.2025.110243",
-    "title": "Convolutional neural network-based multi-modal detection model for combustion instability in swirling flames",
-    "authors": "Wei Pan; Shize Tian; Jianzhong Li; Wu Jin; Li Yuan; Qian Yao",
+    "doi": "10.1016/j.ces.2025.121752",
+    "title": "Calcium hydroxyapatite nanoparticle-induced bio-electrocatalytic hydrogen production in a single-chambered carbon cloth-based cathodic microbial electrolysis cell",
+    "authors": "Fabrice Ndayisenga; Bobo Wang; Chengyu Zhang; Longyu Wang; Guilin Du; Zhisheng Yu",
     "issuedDate": "2025-7",
     "abstract": "N/A",
     "publisher": "Elsevier BV",
     "type": "journal-article",
-    "journal": "Aerospace Science and Technology"
+    "journal": "Chemical Engineering Science"
   },
   {
-    "doi": "10.1016/j.jenvman.2025.125819",
-    "title": "Concurrent alien plant invasion and biodiversity loss enhance soil microbial carbon use efficiency by shifting the balance between microbial carbon and nitrogen acquisition",
-    "authors": "Abdulkareem Raheem; Babar Iqbal; Yanjiao Wang; Jiabao Lou; Yi Tang; Jian Li; Qiuyue Zhang; Sixuan Xu; Zhicong Dai; Xiaojun Zheng; Guangqian Ren; Guanlin Li; Daolin Du",
+    "doi": "10.1061/jwrmd5.wreng-6843",
+    "title": "Pressure Sensor Placement for Pipe Burst Detection and Localization in Water Distribution System",
+    "authors": "Tingchao Yu; Zekun Zou; Yanwei Cai; Hua Zhou; Shipeng Chu; Feifei Zheng",
+    "issuedDate": "2025-7",
+    "abstract": "N/A",
+    "publisher": "American Society of Civil Engineers (ASCE)",
+    "type": "journal-article",
+    "journal": "Journal of Water Resources Planning and Management"
+  },
+  {
+    "doi": "10.1016/j.rbmo.2024.104501",
+    "title": "Long-term effects of IVF on offspring kidneys in mice: observations from adolescence to adulthood",
+    "authors": "Xiaoqian Zhou; Yifei Sun; Wanbing Feng; Wenjing Wan; Linlin Cui",
     "issuedDate": "2025-7",
     "abstract": "N/A",
     "publisher": "Elsevier BV",
     "type": "journal-article",
-    "journal": "Journal of Environmental Management"
+    "journal": "Reproductive BioMedicine Online"
   },
   {
-    "doi": "10.1109/lra.2025.3575326",
-    "title": "Fast Contact Detection Via Fusion of Joint and Inertial Sensors for Parallel Robots in Human-Robot Collaboration",
-    "authors": "Aran Mohammad; Jan Piosik; Dustin Lehmann; Thomas Seel; Moritz Schappler",
-    "issuedDate": "2025-7",
-    "abstract": "N/A",
-    "publisher": "Institute of Electrical and Electronics Engineers (IEEE)",
-    "type": "journal-article",
-    "journal": "IEEE Robotics and Automation Letters"
-  },
-  {
-    "doi": "10.1016/j.fbio.2025.106831",
-    "title": "Contribution of moisture to functional microbial succession and functional expression in medium-high temperature Daqu",
-    "authors": "Yongqi Yao; Yi Luo; Mengyao Wu; Ling Gao; Jialin Zhang; Zhuangzhuang Jiang; Xuejian Jiang; Xiaole Xia",
-    "issuedDate": "2025-7",
-    "abstract": "N/A",
-    "publisher": "Elsevier BV",
-    "type": "journal-article",
-    "journal": "Food Bioscience"
-  },
-  {
-    "doi": "10.1016/j.ijbiomac.2025.144821",
-    "title": "Influence of hemicelluloses on the formation of regenerated Camellia oleifera shells holocellulose films",
-    "authors": "Xiaoqi Liu; Chuanshuang Hu; Haibo Long; Xiuyi Lin; Hong Yun; Jin Gu",
-    "issuedDate": "2025-7",
-    "abstract": "N/A",
-    "publisher": "Elsevier BV",
-    "type": "journal-article",
-    "journal": "International Journal of Biological Macromolecules"
-  },
-  {
-    "doi": "10.1016/j.cja.2025.103513",
-    "title": "Distributed collaborative target tracking of UAV formation considering passive detection efficiency",
-    "authors": "Zhan CHEN; Wenxing FU; Ruitao ZHANG; Ruiyang HONG; Wenbo YE",
-    "issuedDate": "2025-7",
-    "abstract": "N/A",
-    "publisher": "Elsevier BV",
-    "type": "journal-article",
-    "journal": "Chinese Journal of Aeronautics"
-  },
-  {
-    "doi": "10.1016/j.neunet.2025.107291",
-    "title": "Dual-view graph-of-graph representation learning with graph Transformer for graph-level anomaly detection",
-    "authors": "Wangyu Jin; Huifang Ma; Yingyue Zhang; Zhixin Li; Liang Chang",
-    "issuedDate": "2025-7",
-    "abstract": "N/A",
-    "publisher": "Elsevier BV",
-    "type": "journal-article",
-    "journal": "Neural Networks"
-  },
-  {
-    "doi": "10.1097/qai.0000000000003661",
-    "title": "Identifying Preferred Program Delivery Attributes for Long-Acting Injectable Cabotegravir-Rilpvirine in Three US HIV Clinics: A Discrete-Choice Experiment",
-    "authors": "Jose I. Gutierrez; Elizabeth T. Montgomery; Samantha E. Dilworth; Moira C. McNulty; Jonathan A. Colasanti; Mallory O. Johnson; Kimberly A. Koester; John A. Sauceda; Xavier A. Erguera; Kaylin Dance; Manami Diaz Tsuzuki; Matthew D. Hickey; Andrew D. Kerkhoff; Torsten B. Neilands; Ingrid Eshun-Wilson; Elvin Geng; Katerina A. Christopoulos",
-    "issuedDate": "2025-7-1",
-    "abstract": "Background:\n            Long-acting injectable cabotegravir and rilpivirine (CAB/RPV-LA) may overcome adherence barriers and provide treatment choice among people with HIV (PWH). However, little is known about the factors most likely to facilitate CAB/RPV-LA use.\n          \n          \n            Methods:\n            We conducted a discrete-choice experiment at three urban US HIV clinics, stratified by care engagement status (suboptimal care engagement defined as most recent HIV RNA ≥200 copies/mL or &lt;2 primary care visits with no HIV RNA measurement in the past year). The discrete-choice experiment had 6 attributes: visit location, conversation with one's HIV provider at injection, extra support services, visit length, extended hours, and cost. We used mixed logit regression to estimate preference weights and latent class analysis to identify preference groupings. We examined associations between covariates, attribute preferences, and latent class groups and estimated shares of preference toward hypothetical scenarios.\n          \n          \n            Results:\n            Between December 2021 and May 2022, 370 PWH participated. The median age was 46 years, 34% were cisgender female/gender minority, 59% were African American/Black, 13% were Latino/a/x, 34% experienced unstable housing, 19% endorsed illicit substance use, and 27% suboptimal engagement. Cost and visit location were the most important attributes. Latent class analysis identified three groups: (1) cost conscious (44%), (2) location driven (34%), and (3) provider/support services oriented (22%). Suboptimally engaged PWH preferred extra support services. Shares of preference suggested a predicted use of CAB/RPV-LA exceeding 80% across delivery scenarios with more preferred features.\n          \n          \n            Conclusions:\n            Participants strongly preferred CAB/RPV-LA delivery at no cost and accessible at their current HIV clinic. Preferences of PWH with suboptimal engagement were heterogeneous, suggesting the need for tailored, differentiated delivery programs offering choice.",
-    "publisher": "Ovid Technologies (Wolters Kluwer Health)",
-    "type": "journal-article",
-    "journal": "JAIDS Journal of Acquired Immune Deficiency Syndromes"
-  },
-  {
-    "doi": "10.1016/j.knosys.2025.113381",
-    "title": "CODdiff: Prior leading diffusion model for Camouflage Object Detection",
-    "authors": "Hong Zhang; Yixuan Lyu; Tian He; Xuliang Li; Yawei Li; Ding Yuan; Yifan Yang",
-    "issuedDate": "2025-7",
-    "abstract": "N/A",
-    "publisher": "Elsevier BV",
-    "type": "journal-article",
-    "journal": "Knowledge-Based Systems"
-  },
-  {
-    "doi": "10.1016/j.apor.2025.104653",
-    "title": "Inundation monitoring using a machine learning algorithm combining AI and edge detection",
-    "authors": "J. Derek Loftis; Hunter Harman; Sridhar Katragadda; Russell Lotspeich",
-    "issuedDate": "2025-7",
-    "abstract": "N/A",
-    "publisher": "Elsevier BV",
-    "type": "journal-article",
-    "journal": "Applied Ocean Research"
-  },
-  {
-    "doi": "10.1016/j.amjcard.2025.03.009",
-    "title": "Surgeon Frequency of Aortic Root Enlargement and Long-Term Survival in Medicare Beneficiaries Undergoing Surgical Aortic Valve Replacement",
-    "authors": "John B. Eisenga; Taylor Pickering; Kyle A. McCullough; Jasjit Banwait; Sarah Hale; Katherine B. Harrington; William T. Brinkman; Michael J. Mack; J. Michael DiMaio; Justin M. Schaffer",
-    "issuedDate": "2025-7",
-    "abstract": "N/A",
-    "publisher": "Elsevier BV",
-    "type": "journal-article",
-    "journal": "The American Journal of Cardiology"
-  },
-  {
-    "doi": "10.1016/j.jpowsour.2025.237121",
-    "title": "Granular activated carbon tubular microbial fuel cell for decentralized greywater treatment",
-    "authors": "Carlos Gallardo-Bustos; Natalia Tapia; Ignacio T. Vargas",
-    "issuedDate": "2025-7",
-    "abstract": "N/A",
-    "publisher": "Elsevier BV",
-    "type": "journal-article",
-    "journal": "Journal of Power Sources"
-  },
-  {
-    "doi": "10.1016/j.ejogrb.2025.114042",
-    "title": "Multimodal management of peritoneal sarcomatosis in uterine sarcoma: Long term outcomes from a single institute in India",
-    "authors": "M D Ray; Rohan Kapoor; Nikhil BN",
-    "issuedDate": "2025-7",
-    "abstract": "N/A",
-    "publisher": "Elsevier BV",
-    "type": "journal-article",
-    "journal": "European Journal of Obstetrics &amp; Gynecology and Reproductive Biology"
-  },
-  {
-    "doi": "10.2307/jj.30412862",
-    "title": "Busting the Myth of the Communication Metaphor",
-    "authors": "SARAH READ",
+    "doi": "10.12913/22998624/204321",
+    "title": "Anomaly detection and security threats in Internet of Things: A study of data integrity in the measurement process",
+    "authors": "Adam Paluch; Monika Paluch-Fersz; Michał Kalisz; Michalina Gryniewicz-Jaworska",
     "issuedDate": "2025-7-1",
     "abstract": "N/A",
-    "publisher": "State University of New York Press",
-    "type": "monograph",
-    "journal": "N/A"
+    "publisher": "Wydawnictwo Naukowe Gabriel Borowski (WNGB)",
+    "type": "journal-article",
+    "journal": "Advances in Science and Technology Research Journal"
   },
   {
-    "doi": "10.1016/j.jmrt.2025.06.132",
-    "title": "Long-term in vitro immersion corrosion mechanism of pure zinc fabricated by laser powder bed fusion",
-    "authors": "Yubao Zhang; Kun Sun; Liang Zhang; Chengnan Wu; Pengya Liang; Wenyu Fan; Yulong Fu",
+    "doi": "10.1016/j.eswa.2025.127741",
+    "title": "SEPM: Multiscale semantic enhancement-progressive multimodal fusion network for fake news detection",
+    "authors": "Hui Wang; Junfeng Guo; Shouxin Liu; Pengbing Chen; Xiaowei Li",
     "issuedDate": "2025-7",
     "abstract": "N/A",
     "publisher": "Elsevier BV",
     "type": "journal-article",
-    "journal": "Journal of Materials Research and Technology"
+    "journal": "Expert Systems with Applications"
   },
   {
-    "doi": "10.1016/j.jmoldx.2025.04.001",
-    "title": "Clinical Validation of a Noninvasive Multi-Omics Method for Multicancer Early Detection in Retrospective and Prospective Cohorts",
-    "authors": "Shiyong Li; Shuaipeng Geng; Yan Chen; Qingqi Ren; Yi Luan; Weijie Liang; Yinyin Chang; Lijuan Zhang; Dandan Zhu; Wei Wu; Yingying Zhang; Linfeng Zhang; Yan Wang; Guolin Zhong; Bing Wei; Jie Ma; Yu Chang; Xinhua Wang; Zhiming Li; Chaohui Duan; Guanghui Long; Mao Mao",
+    "doi": "10.1016/j.ijmecsci.2025.110317",
+    "title": "Energy dissipation mechanisms in topologically interlocking structures",
+    "authors": "Yunjie Jing; Ziqi Chen; Heran Wang; Xiaoqing Zhang; Shuchang Long; Xiaohu Yao",
     "issuedDate": "2025-7",
     "abstract": "N/A",
     "publisher": "Elsevier BV",
     "type": "journal-article",
-    "journal": "The Journal of Molecular Diagnostics"
-  },
-  {
-    "doi": "10.1016/j.ceramint.2025.02.392",
-    "title": "CaZr1-Ni O3- dense diffusion barrier limiting current oxygen sensor for high oxygen concentrations detection (2.1 mol%-21 mol%)",
-    "authors": "Junbo Long; Jinlian Li; Xiaofang Zhang; Jiegang You; Wendong Tan; Yakai Wang; Xiaoshuang Guo; Xudong Luo",
-    "issuedDate": "2025-7",
-    "abstract": "N/A",
-    "publisher": "Elsevier BV",
-    "type": "journal-article",
-    "journal": "Ceramics International"
-  },
-  {
-    "doi": "10.1016/j.resinv.2025.05.001",
-    "title": "Impact of long COVID on the health-related quality of life of Japanese patients: A prospective nationwide cohort study",
-    "authors": "Kazuma Yagi; Masahiro Kondo; Hideki Terai; Takanori Asakura; Ryusei Kimura; Ryo Takemura; Hiromu Tanaka; Keiko Ohgino; Katsunori Masaki; Ho Namkoong; Shotaro Chubachi; Jun Miyata; Ichiro Kawada; Tatsuya Kaido; Shuko Mashimo; Keigo Kobayashi; Toshiyuki Hirano; Ho Lee; Kai Sugihara; Nao Omori; Mayuko Watase; Takao Mochimaru; Ryosuke Satomi; Yasushi Makino; Takashi Inoue; Koichi Sayama; Yoshitaka Oyamada; Makoto Ishii; Yasunori Sato; Koichi Fukunaga",
-    "issuedDate": "2025-7",
-    "abstract": "N/A",
-    "publisher": "Elsevier BV",
-    "type": "journal-article",
-    "journal": "Respiratory Investigation"
-  },
-  {
-    "doi": "10.1016/j.microc.2025.114098",
-    "title": "Coumarin-based molecular probe for triphosgene detection using analyte-triggered isocyanate generation",
-    "authors": "Bhanu Priya; Naresh Kumar; Roopa",
-    "issuedDate": "2025-7",
-    "abstract": "N/A",
-    "publisher": "Elsevier BV",
-    "type": "journal-article",
-    "journal": "Microchemical Journal"
+    "journal": "International Journal of Mechanical Sciences"
   }
 ]
